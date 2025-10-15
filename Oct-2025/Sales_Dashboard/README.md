@@ -1,56 +1,53 @@
 # Sales Dashboard – October 2025
 
-[📊 View Dashboard PDF](Dashboard/Sales_Analysis_Dashboard.pdf)
+[📊 View Dashboard PDF](Sales_Analysis_Dashboard.pdf)
 
 ---
 
 ## 🧠 Project Overview
-The **Sales Dashboard** is an interactive Power BI report created to analyze and visualize company sales data for October 2025.  
-It provides a comprehensive overview of sales trends, top-performing products, and regional performance — empowering decision-makers with actionable insights.
+The **Sales Dashboard** is an interactive Power BI report designed to analyze company sales performance for October 2025.  
+It provides insights into sales trends, top-performing products, and regional performance, enabling data-driven decision-making.
 
 ---
 
 ## ✨ Key Insights & Features
-- **Revenue Tracking:** Visual breakdown of total revenue across weeks and months.  
-- **Top Products:** Identify high-performing products and their contribution to total sales.  
-- **Regional Analysis:** Compare sales across different geographic regions.  
-- **Customer Segmentation:** Highlight key customer groups driving sales.  
-- **Dynamic Filters & Slicers:** Interact with data through time, region, and category filters.
+- **Revenue Tracking:** Breakdown of total revenue by week and month.  
+- **Top Products:** Identify best-selling items and categories.  
+- **Regional Performance:** Compare sales across different geographic areas.  
+- **Interactive Filters:** Filter data by region, category, or time period.  
 
 ---
 
 ## 📂 Data Sources
 | File Name | Description |
 |------------|-------------|
-| [Orion_Sales_Data.csv](Data/Orion_Sales_Data.csv) | Contains product sales data including quantity, revenue, and region. |
+| [Orion_Sales_Data.csv](Orion_Sales_Data.csv) | Contains product-level sales data (quantity, revenue, region). |
 
-> ⚠️ Note: This dataset is used for demonstration and learning purposes only. It does not represent real company data.
+> ⚠️ Note: This dataset is for demonstration purposes only.
 
 ---
 
 ## ⚙️ How to Use
-1. Open the **Sales_Analysis_Dashboard.pdf** file inside the `Dashboard/` folder to view the static version of the Power BI dashboard.  
-2. Optionally, import the dataset (`Data/Orion_Sales_Data.csv`) into Power BI Desktop to recreate or modify the dashboard.  
-3. Use filters to explore insights by region, category, or time period.
+1. Open the [Sales_Analysis_Dashboard.pdf](Sales_Analysis_Dashboard.pdf) file to view the dashboard.  
+2. Explore `Orion_Sales_Data.csv` if you want to re-create or analyze data in Power BI.  
+3. View [Sales Dashboard Preview](Sales_Analysis_Dashboard.png) below for a quick visual summary.
+
+---
+
+## 📸 Dashboard Preview
+![Sales Dashboard Preview](Sales_Analysis_Dashboard.png)
 
 ---
 
 ## 🧩 Skills & Tools Demonstrated
-- **Power BI:** Data modeling, DAX calculations, and visual design.  
-- **Data Cleaning:** Transforming raw sales data for analysis.  
-- **KPI & Card Visuals:** Displaying metrics like total revenue, profit, and top products.  
-- **Design Principles:** Consistent color theme, typography, and layout for readability.
+- Data cleaning and transformation in **Power BI**  
+- DAX calculations and KPI cards  
+- Building interactive visuals  
+- Dashboard design with consistent layout and colors  
 
 ---
 
 ## 🧑‍💻 Author
 **Anshumaan Mishra**  
-📂 GitHub: [github.com/yourusername](https://github.com/mi9Ans)  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anshumaan-mishra-211118365/)
-
----
-
-## 📸 Preview
-If you’ve added a screenshot, you can include it below:
-
-![Sales Dashboard Preview](Assets/Sales_Analysis_Dashboard.png)
+📂 GitHub: (https://github.com/mi9Ans)  
+🔗 LinkedIn: (https://www.linkedin.com/in/anshumaan-mishra-211118365/))
