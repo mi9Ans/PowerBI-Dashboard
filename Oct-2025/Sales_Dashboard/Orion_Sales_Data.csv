@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Customer_Name,Region,Category,Sub-Category,Product_Name,Sales,Quantity,Discount,Profit
+ORD0001,2024-04-18,2024-04-19,Customer_42,North,Laptops,Ultrabook,Ultrabook 47,110629.09,4,0.04,6756.18
+ORD0002,2023-04-27,2023-05-02,Customer_157,West,Accessories,Chargers,Chargers 36,45324.64,4,0.18,112.1
+ORD0003,2023-11-22,2023-11-28,Customer_102,West,Accessories,Covers,Covers 3,89485.3,9,0.12,6933.67
+ORD0004,2023-12-13,2023-12-14,Customer_60,North,Laptops,Business,Business 20,47256.73,4,0.12,4268.61
+ORD0005,2024-05-01,2024-05-02,Customer_75,North,Tablets,Windows Tablet,Windows Tablet 27,40133.06,6,0.04,3597.07
+ORD0006,2024-10-14,2024-10-20,Customer_49,West,Accessories,Covers,Covers 9,104884.03,3,0.09,884.77
+ORD0007,2024-07-10,2024-07-14,Customer_79,West,Accessories,Headphones,Headphones 29,49285.47,9,0.29,-6511.26
+ORD0008,2023-07-02,2023-07-08,Customer_113,North,Tablets,iPad,iPad 28,22844.34,7,0.12,-1329.77
+ORD0009,2023-03-03,2023-03-05,Customer_187,North,Accessories,Headphones,Headphones 26,81466.91,10,0.02,7152.76
+ORD0010,2024-12-19,2024-12-24,Customer_182,West,Laptops,Ultrabook,Ultrabook 49,13208.63,4,0.29,-2099.7
+ORD0011,2023-06-05,2023-06-06,Customer_74,East,Accessories,Covers,Covers 31,17139.18,6,0.24,-2390.69
+ORD0012,2024-05-07,2024-05-09,Customer_20,West,Accessories,Covers,Covers 15,11479.74,5,0.26,-876.49
+ORD0013,2023-10-14,2023-10-16,Customer_6,East,Phones,Android,Android 48,78440.99,1,0.25,-1535.58
+ORD0014,2023-09-17,2023-09-23,Customer_197,West,Phones,iPhone,iPhone 4,106609.23,8,0.24,-18765.24
+ORD0015,2024-08-24,2024-08-27,Customer_15,South,Accessories,Covers,Covers 45,88439.79,7,0.19,-6938.31
+ORD0016,2024-01-01,2024-01-07,Customer_16,South,Tablets,iPad,iPad 34,41796.75,7,0.03,3997.28
+ORD0017,2023-09-04,2023-09-10,Customer_90,West,Phones,Android,Android 39,33245.84,8,0.18,-810.04
+ORD0018,2024-08-20,2024-08-22,Customer_140,South,Tablets,Windows Tablet,Windows Tablet 41,82682.29,6,0.22,1648.72
+ORD0019,2024-02-14,2024-02-16,Customer_156,North,Accessories,Chargers,Chargers 35,45995.12,7,0.2,-250.58
+ORD0020,2024-02-17,2024-02-19,Customer_148,East,Phones,Android,Android 48,107131.47,4,0.21,-14626.25
+ORD0021,2023-06-18,2023-06-20,Customer_186,North,Phones,Android,Android 11,6221.19,4,0.07,501.38
+ORD0022,2024-11-14,2024-11-20,Customer_180,East,Laptops,Ultrabook,Ultrabook 24,37014.88,1,0.06,6863.93
+ORD0023,2023-07-27,2023-07-30,Customer_152,North,Laptops,Ultrabook,Ultrabook 43,116886.64,2,0.1,6914.53
+ORD0024,2023-02-15,2023-02-22,Customer_112,West,Tablets,iPad,iPad 43,30121.83,6,0.16,2646.93
+ORD0025,2023-07-29,2023-07-30,Customer_47,South,Tablets,Windows Tablet,Windows Tablet 32,78585.24,2,0.19,-7912.75
+ORD0026,2024-02-07,2024-02-11,Customer_88,North,Laptops,Gaming,Gaming 13,26029.59,4,0.2,-1779.79
+ORD0027,2024-05-02,2024-05-06,Customer_85,West,Phones,Feature Phone,Feature Phone 33,16913.62,7,0.15,-170.66
+ORD0028,2024-05-30,2024-06-02,Customer_135,South,Accessories,Headphones,Headphones 39,34838.18,1,0.25,-6198.85
+ORD0029,2024-07-23,2024-07-27,Customer_16,East,Tablets,Windows Tablet,Windows Tablet 29,107745.02,6,0.01,18710.54
+ORD0030,2023-12-15,2023-12-19,Customer_39,North,Laptops,Business,Business 39,97913.31,2,0.16,3162.81
+ORD0031,2023-02-24,2023-03-02,Customer_155,West,Tablets,Windows Tablet,Windows Tablet 34,85447.36,7,0.24,-7183.06
+ORD0032,2023-04-26,2023-04-28,Customer_160,East,Laptops,Business,Business 15,91149.5,3,0.16,-9221.82
+ORD0033,2024-05-03,2024-05-05,Customer_127,East,Phones,Feature Phone,Feature Phone 50,84588.69,1,0.09,10561.5
+ORD0034,2024-12-28,2024-12-31,Customer_121,East,Accessories,Headphones,Headphones 4,74185.0,1,0.28,-16336.42
+ORD0035,2023-11-30,2023-12-06,Customer_19,South,Tablets,Windows Tablet,Windows Tablet 15,27693.94,2,0.25,-4535.24
+ORD0036,2024-09-10,2024-09-17,Customer_38,South,Tablets,Windows Tablet,Windows Tablet 12,105975.44,9,0.1,-2413.01
+ORD0037,2023-06-01,2023-06-04,Customer_33,North,Tablets,Windows Tablet,Windows Tablet 38,47075.48,4,0.09,4986.85
+ORD0038,2023-02-26,2023-03-02,Customer_147,East,Accessories,Headphones,Headphones 47,89128.04,4,0.13,7854.16
+ORD0039,2023-08-31,2023-09-03,Customer_37,North,Laptops,Gaming,Gaming 3,101239.48,3,0.02,7399.95
+ORD0040,2024-09-15,2024-09-20,Customer_81,East,Phones,Feature Phone,Feature Phone 35,21999.17,9,0.08,-180.93
+ORD0041,2024-12-12,2024-12-13,Customer_127,South,Accessories,Chargers,Chargers 29,114758.12,3,0.2,2916.91
+ORD0042,2024-04-12,2024-04-16,Customer_198,South,Laptops,Business,Business 48,29984.58,3,0.23,-2023.84
+ORD0043,2023-07-13,2023-07-20,Customer_75,East,Tablets,Android Tablet,Android Tablet 48,99400.85,3,0.06,14899.1
+ORD0044,2023-03-30,2023-04-03,Customer_112,South,Laptops,Business,Business 45,62594.89,10,0.1,-938.86
+ORD0045,2023-06-09,2023-06-11,Customer_33,North,Accessories,Headphones,Headphones 21,50012.15,1,0.15,-4724.98
+ORD0046,2024-11-23,2024-11-29,Customer_42,South,Phones,Feature Phone,Feature Phone 30,23132.04,1,0.29,-4132.45
+ORD0047,2023-02-15,2023-02-22,Customer_125,East,Phones,Feature Phone,Feature Phone 29,58255.12,2,0.1,3356.29
+ORD0048,2023-04-08,2023-04-12,Customer_96,West,Phones,iPhone,iPhone 11,119799.05,10,0.22,-2330.34
+ORD0049,2023-04-12,2023-04-17,Customer_9,North,Accessories,Chargers,Chargers 31,34140.4,8,0.19,-3177.04
+ORD0050,2023-03-04,2023-03-11,Customer_33,South,Accessories,Chargers,Chargers 25,26992.91,8,0.0,5988.31
+ORD0051,2023-05-17,2023-05-22,Customer_189,South,Laptops,Gaming,Gaming 36,44778.91,6,0.06,4461.56
+ORD0052,2024-10-15,2024-10-21,Customer_124,West,Laptops,Ultrabook,Ultrabook 3,2128.83,2,0.13,158.14
+ORD0053,2023-03-21,2023-03-23,Customer_29,South,Phones,iPhone,iPhone 11,99121.22,3,0.19,-4112.97
+ORD0054,2023-09-17,2023-09-19,Customer_79,West,Laptops,Ultrabook,Ultrabook 47,111624.33,6,0.08,15602.27
+ORD0055,2023-08-20,2023-08-21,Customer_63,South,Phones,iPhone,iPhone 49,88638.26,10,0.04,17153.14
+ORD0056,2023-01-02,2023-01-08,Customer_115,East,Laptops,Ultrabook,Ultrabook 49,65630.42,3,0.17,3858.85
+ORD0057,2023-01-11,2023-01-13,Customer_58,North,Laptops,Ultrabook,Ultrabook 7,97996.59,10,0.15,4082.42
+ORD0058,2023-08-23,2023-08-26,Customer_84,North,Phones,Android,Android 25,8660.41,10,0.09,-127.9
+ORD0059,2024-07-24,2024-07-29,Customer_102,West,Tablets,Android Tablet,Android Tablet 47,97305.69,10,0.25,-7003.63
+ORD0060,2023-11-15,2023-11-17,Customer_94,North,Tablets,Android Tablet,Android Tablet 25,38641.44,9,0.09,4048.81
+ORD0061,2023-04-27,2023-04-28,Customer_56,South,Tablets,Android Tablet,Android Tablet 41,46630.18,7,0.01,9515.78
+ORD0062,2023-05-14,2023-05-18,Customer_23,West,Tablets,Windows Tablet,Windows Tablet 11,92981.93,1,0.16,-9721.33
+ORD0063,2024-02-14,2024-02-16,Customer_26,South,Laptops,Gaming,Gaming 44,8511.91,8,0.12,571.48
+ORD0064,2024-09-26,2024-10-02,Customer_44,West,Phones,iPhone,iPhone 28,5998.3,8,0.08,606.18
+ORD0065,2024-07-30,2024-08-05,Customer_80,South,Accessories,Chargers,Chargers 14,4982.16,9,0.12,337.39
+ORD0066,2023-10-18,2023-10-22,Customer_91,East,Tablets,Android Tablet,Android Tablet 19,16832.68,1,0.07,2507.99
+ORD0067,2024-12-06,2024-12-13,Customer_194,South,Tablets,Android Tablet,Android Tablet 12,65007.09,4,0.19,-7340.15
+ORD0068,2024-10-24,2024-10-30,Customer_118,West,Tablets,iPad,iPad 32,51359.93,1,0.1,-2222.84
+ORD0069,2023-04-19,2023-04-25,Customer_47,East,Phones,Feature Phone,Feature Phone 26,12763.25,3,0.15,223.27
+ORD0070,2024-11-14,2024-11-17,Customer_81,North,Phones,Feature Phone,Feature Phone 15,58216.47,7,0.25,-2089.26
+ORD0071,2023-10-20,2023-10-23,Customer_170,East,Tablets,Android Tablet,Android Tablet 35,63481.15,3,0.04,4429.08
+ORD0072,2023-01-04,2023-01-06,Customer_88,South,Phones,Feature Phone,Feature Phone 19,70863.51,4,0.3,-10189.26
+ORD0073,2023-03-13,2023-03-14,Customer_117,West,Tablets,Android Tablet,Android Tablet 17,41934.05,3,0.07,3484.29
+ORD0074,2024-05-01,2024-05-04,Customer_169,South,Laptops,Business,Business 48,46827.51,6,0.2,-6099.6
+ORD0075,2023-02-20,2023-02-24,Customer_140,North,Phones,iPhone,iPhone 36,109180.59,8,0.26,-15975.71
+ORD0076,2024-11-08,2024-11-13,Customer_175,South,Accessories,Headphones,Headphones 13,27769.59,9,0.05,1302.47
+ORD0077,2023-07-08,2023-07-14,Customer_73,West,Accessories,Headphones,Headphones 43,26333.18,8,0.05,4466.75
+ORD0078,2024-06-22,2024-06-29,Customer_28,East,Tablets,Windows Tablet,Windows Tablet 34,34248.35,5,0.07,1671.21
+ORD0079,2024-10-04,2024-10-07,Customer_149,North,Tablets,iPad,iPad 28,13600.46,5,0.16,-677.39
+ORD0080,2024-11-02,2024-11-04,Customer_86,North,Laptops,Business,Business 20,63311.8,3,0.2,-1087.17
+ORD0081,2023-03-28,2023-04-04,Customer_95,West,Accessories,Headphones,Headphones 37,56695.78,4,0.01,4521.66
+ORD0082,2024-11-21,2024-11-26,Customer_117,South,Tablets,Android Tablet,Android Tablet 21,17671.99,4,0.23,-2230.96
+ORD0083,2023-09-26,2023-10-01,Customer_152,South,Laptops,Ultrabook,Ultrabook 33,9507.1,3,0.12,-88.65
+ORD0084,2024-08-12,2024-08-17,Customer_161,East,Laptops,Ultrabook,Ultrabook 22,103763.69,3,0.15,-3059.44
+ORD0085,2023-07-25,2023-07-27,Customer_73,North,Phones,Feature Phone,Feature Phone 50,36010.57,10,0.07,5772.71
+ORD0086,2023-02-15,2023-02-21,Customer_27,South,Laptops,Ultrabook,Ultrabook 2,16143.45,1,0.03,1820.1
+ORD0087,2023-01-16,2023-01-19,Customer_154,East,Phones,Feature Phone,Feature Phone 36,16467.79,7,0.3,-3594.15
+ORD0088,2024-08-28,2024-08-31,Customer_37,West,Phones,Android,Android 44,79751.36,10,0.17,2450.6
+ORD0089,2024-10-30,2024-11-04,Customer_17,North,Accessories,Covers,Covers 22,73871.56,1,0.12,4926.46
+ORD0090,2024-12-16,2024-12-23,Customer_35,North,Laptops,Gaming,Gaming 50,15925.69,5,0.27,-2747.7
+ORD0091,2023-01-01,2023-01-02,Customer_76,South,Tablets,Android Tablet,Android Tablet 38,101407.0,7,0.23,-7516.19
+ORD0092,2024-05-14,2024-05-17,Customer_51,North,Tablets,Windows Tablet,Windows Tablet 14,58115.34,9,0.02,5699.49
+ORD0093,2024-10-24,2024-10-28,Customer_116,South,Laptops,Ultrabook,Ultrabook 38,40053.46,1,0.07,2523.24
+ORD0094,2024-08-28,2024-08-30,Customer_98,North,Laptops,Ultrabook,Ultrabook 19,119661.16,2,0.26,-5202.42
+ORD0095,2023-08-17,2023-08-21,Customer_179,South,Tablets,Windows Tablet,Windows Tablet 8,74752.12,5,0.05,592.01
+ORD0096,2023-02-12,2023-02-18,Customer_62,East,Laptops,Gaming,Gaming 22,107889.17,3,0.01,22418.88
+ORD0097,2023-01-22,2023-01-26,Customer_176,East,Tablets,Android Tablet,Android Tablet 9,93244.57,9,0.1,3975.08
+ORD0098,2024-06-15,2024-06-16,Customer_122,West,Laptops,Gaming,Gaming 20,10088.28,7,0.22,-364.11
+ORD0099,2024-05-13,2024-05-16,Customer_46,West,Laptops,Business,Business 2,96923.22,6,0.01,11601.99
+ORD0100,2024-02-08,2024-02-13,Customer_174,South,Tablets,Windows Tablet,Windows Tablet 33,87596.15,4,0.17,5726.0
+ORD0101,2024-01-14,2024-01-21,Customer_9,East,Accessories,Headphones,Headphones 20,2189.04,5,0.02,344.81
+ORD0102,2024-11-25,2024-11-29,Customer_123,East,Laptops,Ultrabook,Ultrabook 43,39758.33,8,0.24,-6480.38
+ORD0103,2024-01-31,2024-02-03,Customer_178,South,Laptops,Business,Business 38,92969.64,6,0.3,-5345.77
+ORD0104,2024-05-21,2024-05-22,Customer_20,North,Tablets,Android Tablet,Android Tablet 35,54817.56,7,0.23,-2113.54
+ORD0105,2024-10-03,2024-10-09,Customer_187,East,Phones,Feature Phone,Feature Phone 35,15867.58,2,0.3,-3631.67
+ORD0106,2024-03-18,2024-03-21,Customer_9,West,Accessories,Headphones,Headphones 20,31390.11,6,0.18,-1795.22
+ORD0107,2024-05-19,2024-05-22,Customer_122,West,Phones,iPhone,iPhone 41,44668.9,1,0.09,-466.65
+ORD0108,2024-03-08,2024-03-14,Customer_17,East,Accessories,Chargers,Chargers 46,105529.46,1,0.22,-4387.53
+ORD0109,2023-03-05,2023-03-08,Customer_28,West,Tablets,iPad,iPad 50,69814.06,3,0.26,-7350.59
+ORD0110,2023-04-28,2023-04-29,Customer_74,West,Phones,Android,Android 31,85585.59,3,0.25,-13247.0
+ORD0111,2024-10-12,2024-10-18,Customer_121,West,Accessories,Headphones,Headphones 33,58528.27,10,0.18,-1139.73
+ORD0112,2023-03-21,2023-03-24,Customer_93,East,Phones,Android,Android 37,33733.49,4,0.22,-2752.63
+ORD0113,2023-01-07,2023-01-10,Customer_92,West,Tablets,Windows Tablet,Windows Tablet 1,90694.57,10,0.21,-8049.57
+ORD0114,2023-01-24,2023-01-27,Customer_40,West,Laptops,Gaming,Gaming 9,37954.28,5,0.21,1479.8
+ORD0115,2024-08-29,2024-09-02,Customer_109,North,Tablets,Windows Tablet,Windows Tablet 50,65387.88,2,0.02,12963.8
+ORD0116,2024-10-22,2024-10-29,Customer_152,South,Phones,iPhone,iPhone 36,42067.65,6,0.11,908.7
+ORD0117,2024-01-07,2024-01-09,Customer_135,South,Laptops,Business,Business 21,98225.91,6,0.08,11616.47
+ORD0118,2023-03-09,2023-03-14,Customer_103,South,Phones,iPhone,iPhone 12,53913.56,2,0.12,-1354.06
+ORD0119,2024-05-19,2024-05-26,Customer_102,North,Tablets,Windows Tablet,Windows Tablet 3,55952.97,7,0.09,6852.81
+ORD0120,2024-06-12,2024-06-19,Customer_176,West,Accessories,Headphones,Headphones 45,85050.32,6,0.11,1279.41
+ORD0121,2023-08-18,2023-08-23,Customer_65,West,Laptops,Business,Business 26,89418.35,5,0.28,-4693.4
+ORD0122,2023-08-19,2023-08-25,Customer_89,North,Accessories,Covers,Covers 11,3795.95,10,0.22,-519.3
+ORD0123,2024-01-24,2024-01-30,Customer_77,East,Laptops,Business,Business 20,22597.87,5,0.22,-1722.09
+ORD0124,2023-10-08,2023-10-09,Customer_193,East,Accessories,Covers,Covers 19,117857.46,2,0.12,4358.32
+ORD0125,2023-10-11,2023-10-14,Customer_125,West,Tablets,iPad,iPad 34,111270.37,6,0.18,4586.52
+ORD0126,2023-10-21,2023-10-27,Customer_129,West,Tablets,Windows Tablet,Windows Tablet 25,88940.92,3,0.19,1145.06
+ORD0127,2023-02-14,2023-02-20,Customer_123,West,Tablets,Android Tablet,Android Tablet 48,92232.01,9,0.3,-15543.93
+ORD0128,2023-07-22,2023-07-29,Customer_121,East,Accessories,Covers,Covers 30,111767.74,5,0.07,13062.97
+ORD0129,2024-03-12,2024-03-16,Customer_117,North,Laptops,Ultrabook,Ultrabook 25,118061.93,8,0.2,-15137.37
+ORD0130,2023-05-19,2023-05-23,Customer_171,North,Tablets,Android Tablet,Android Tablet 15,55068.07,5,0.02,4575.85
+ORD0131,2023-10-02,2023-10-07,Customer_110,East,Tablets,Android Tablet,Android Tablet 21,82130.97,7,0.3,-15241.64
+ORD0132,2024-07-30,2024-08-03,Customer_112,West,Phones,Android,Android 29,52733.25,2,0.24,272.6
+ORD0133,2024-03-24,2024-03-28,Customer_161,East,Tablets,Android Tablet,Android Tablet 13,85992.32,8,0.1,4071.0
+ORD0134,2024-10-17,2024-10-21,Customer_80,East,Phones,Android,Android 17,62588.17,2,0.13,-680.53
+ORD0135,2024-03-19,2024-03-21,Customer_82,East,Accessories,Headphones,Headphones 12,85841.56,3,0.05,13744.44
+ORD0136,2024-03-03,2024-03-05,Customer_32,South,Laptops,Business,Business 8,80780.27,1,0.15,2745.43
+ORD0137,2024-07-04,2024-07-09,Customer_63,North,Tablets,iPad,iPad 14,52573.47,6,0.13,-3683.49
+ORD0138,2024-02-23,2024-02-29,Customer_139,South,Accessories,Headphones,Headphones 7,119914.66,8,0.11,780.73
+ORD0139,2023-09-30,2023-10-02,Customer_182,East,Accessories,Chargers,Chargers 11,41863.08,10,0.13,-1059.13
+ORD0140,2023-11-25,2023-11-28,Customer_106,South,Tablets,iPad,iPad 42,64111.83,2,0.3,-14881.18
+ORD0141,2024-09-09,2024-09-10,Customer_113,North,Accessories,Chargers,Chargers 18,44574.79,10,0.28,-2323.32
+ORD0142,2023-01-07,2023-01-08,Customer_84,East,Tablets,Windows Tablet,Windows Tablet 19,111303.75,8,0.18,4669.42
+ORD0143,2024-02-21,2024-02-25,Customer_43,South,Laptops,Gaming,Gaming 6,43440.44,7,0.25,-4940.96
+ORD0144,2024-04-30,2024-05-04,Customer_155,South,Laptops,Gaming,Gaming 23,24637.54,3,0.08,2158.46
+ORD0145,2024-12-11,2024-12-17,Customer_28,East,Laptops,Gaming,Gaming 1,83688.69,9,0.11,-3980.27
+ORD0146,2024-12-06,2024-12-11,Customer_177,West,Phones,Android,Android 43,46263.14,3,0.21,-6300.48
+ORD0147,2023-02-05,2023-02-07,Customer_168,South,Phones,iPhone,iPhone 27,71971.3,3,0.1,10536.2
+ORD0148,2023-07-03,2023-07-08,Customer_2,West,Laptops,Ultrabook,Ultrabook 6,37243.68,7,0.16,-3986.29
+ORD0149,2023-11-13,2023-11-18,Customer_30,East,Accessories,Headphones,Headphones 1,115563.59,2,0.23,-7140.35
+ORD0150,2024-07-13,2024-07-15,Customer_199,East,Laptops,Ultrabook,Ultrabook 31,51304.57,1,0.29,-9808.12
+ORD0151,2023-08-15,2023-08-18,Customer_118,South,Phones,Feature Phone,Feature Phone 12,22409.77,10,0.11,1596.93
+ORD0152,2023-09-27,2023-10-03,Customer_96,West,Phones,Android,Android 27,32493.46,5,0.28,-3985.72
+ORD0153,2024-10-15,2024-10-17,Customer_55,South,Laptops,Business,Business 22,108172.85,8,0.26,-6040.92
+ORD0154,2024-02-22,2024-02-29,Customer_153,East,Tablets,Android Tablet,Android Tablet 21,12108.61,1,0.28,-1599.36
+ORD0155,2024-09-14,2024-09-17,Customer_12,East,Phones,Feature Phone,Feature Phone 28,42700.57,9,0.2,-1155.29
+ORD0156,2024-12-11,2024-12-13,Customer_81,North,Phones,Android,Android 44,106320.57,7,0.3,-8695.77
+ORD0157,2024-07-26,2024-07-30,Customer_97,East,Phones,Android,Android 46,112056.29,9,0.15,-10963.97
+ORD0158,2024-12-10,2024-12-14,Customer_14,South,Accessories,Covers,Covers 14,56396.04,2,0.07,1650.03
+ORD0159,2024-03-08,2024-03-11,Customer_147,South,Accessories,Chargers,Chargers 23,20051.33,5,0.05,562.08
+ORD0160,2024-06-18,2024-06-19,Customer_199,North,Accessories,Headphones,Headphones 25,4007.99,8,0.1,-126.74
+ORD0161,2023-11-01,2023-11-07,Customer_74,North,Laptops,Ultrabook,Ultrabook 23,113472.79,9,0.3,-25881.4
+ORD0162,2024-12-28,2024-12-31,Customer_81,East,Accessories,Covers,Covers 21,78091.83,6,0.06,13069.42
+ORD0163,2024-09-17,2024-09-18,Customer_26,West,Laptops,Gaming,Gaming 8,98475.45,4,0.12,11177.78
+ORD0164,2023-06-27,2023-07-01,Customer_161,East,Laptops,Gaming,Gaming 5,12270.24,1,0.27,-2517.69
+ORD0165,2024-02-14,2024-02-21,Customer_162,East,Accessories,Chargers,Chargers 42,10872.85,9,0.22,250.39
+ORD0166,2023-10-22,2023-10-29,Customer_58,East,Phones,Android,Android 8,55337.68,5,0.19,-7500.92
+ORD0167,2024-02-01,2024-02-07,Customer_150,South,Laptops,Business,Business 46,76828.08,2,0.15,5613.23
+ORD0168,2023-02-14,2023-02-18,Customer_74,West,Tablets,iPad,iPad 11,107707.64,6,0.3,-23579.06
+ORD0169,2024-02-05,2024-02-07,Customer_126,North,Phones,Feature Phone,Feature Phone 37,81301.5,1,0.29,-12867.51
+ORD0170,2023-08-29,2023-08-31,Customer_137,North,Phones,iPhone,iPhone 27,83400.62,3,0.13,306.23
+ORD0171,2023-11-06,2023-11-08,Customer_76,North,Phones,Android,Android 16,56639.26,4,0.05,2242.8
+ORD0172,2024-10-11,2024-10-15,Customer_177,West,Tablets,iPad,iPad 15,47893.63,9,0.06,6407.88
+ORD0173,2024-02-25,2024-03-02,Customer_154,South,Laptops,Gaming,Gaming 45,5907.07,9,0.02,375.99
+ORD0174,2023-04-18,2023-04-19,Customer_154,South,Laptops,Gaming,Gaming 6,34922.44,5,0.08,3052.17
+ORD0175,2023-05-25,2023-05-30,Customer_119,East,Accessories,Headphones,Headphones 31,46290.85,5,0.05,5488.79
+ORD0176,2024-01-29,2024-01-30,Customer_125,East,Tablets,iPad,iPad 33,39630.89,4,0.07,4372.35
+ORD0177,2024-02-28,2024-03-02,Customer_183,East,Phones,Android,Android 15,11974.94,3,0.11,541.34
+ORD0178,2023-05-20,2023-05-27,Customer_82,East,Accessories,Chargers,Chargers 41,98295.07,4,0.21,-10427.83
+ORD0179,2023-04-25,2023-05-02,Customer_126,East,Accessories,Chargers,Chargers 33,111651.14,3,0.21,-8932.29
+ORD0180,2024-12-12,2024-12-13,Customer_55,South,Phones,Feature Phone,Feature Phone 23,101414.24,10,0.25,-11149.77
+ORD0181,2024-05-12,2024-05-15,Customer_93,South,Accessories,Headphones,Headphones 24,108066.29,2,0.07,12702.01
+ORD0182,2024-01-11,2024-01-18,Customer_28,East,Accessories,Chargers,Chargers 6,36533.58,7,0.1,845.68
+ORD0183,2023-05-20,2023-05-25,Customer_75,East,Phones,Android,Android 36,112277.7,9,0.12,10645.59
+ORD0184,2023-12-29,2024-01-04,Customer_141,South,Phones,Android,Android 3,87825.79,1,0.2,-297.13
+ORD0185,2023-10-26,2023-11-02,Customer_127,East,Accessories,Headphones,Headphones 39,52897.79,1,0.01,6462.18
+ORD0186,2024-01-13,2024-01-15,Customer_95,East,Laptops,Gaming,Gaming 28,45502.92,1,0.14,1505.65
+ORD0187,2024-09-08,2024-09-10,Customer_132,North,Accessories,Headphones,Headphones 3,104715.18,6,0.13,2420.49
+ORD0188,2024-05-31,2024-06-05,Customer_87,North,Tablets,iPad,iPad 20,18413.1,8,0.07,2146.12
+ORD0189,2023-07-16,2023-07-23,Customer_124,South,Phones,Android,Android 42,88251.77,4,0.05,9505.95
+ORD0190,2023-06-28,2023-06-29,Customer_152,South,Phones,Feature Phone,Feature Phone 29,79114.11,7,0.2,-8185.94
+ORD0191,2024-12-22,2024-12-29,Customer_164,West,Tablets,Windows Tablet,Windows Tablet 14,60287.06,3,0.11,3949.34
+ORD0192,2023-07-04,2023-07-08,Customer_69,North,Tablets,iPad,iPad 13,91090.11,9,0.1,2021.84
+ORD0193,2024-05-22,2024-05-23,Customer_18,East,Tablets,Windows Tablet,Windows Tablet 27,72052.03,1,0.21,-7517.9
+ORD0194,2024-11-20,2024-11-22,Customer_143,East,Laptops,Ultrabook,Ultrabook 44,38620.37,5,0.03,3434.78
+ORD0195,2024-10-11,2024-10-14,Customer_145,East,Phones,Android,Android 15,76426.09,6,0.23,-12485.5
+ORD0196,2023-02-04,2023-02-11,Customer_170,West,Accessories,Chargers,Chargers 33,109724.82,6,0.3,-10531.29
+ORD0197,2023-12-09,2023-12-13,Customer_5,North,Phones,iPhone,iPhone 44,5105.48,7,0.11,-283.75
+ORD0198,2024-01-21,2024-01-26,Customer_30,East,Accessories,Chargers,Chargers 14,54008.46,7,0.15,-2890.34
+ORD0199,2023-08-27,2023-08-29,Customer_155,East,Laptops,Gaming,Gaming 1,97740.21,7,0.15,-4439.8
+ORD0200,2023-01-16,2023-01-19,Customer_69,West,Tablets,Android Tablet,Android Tablet 17,80044.56,7,0.15,371.01
+ORD0201,2024-11-29,2024-11-30,Customer_172,West,Phones,Android,Android 16,45240.1,10,0.13,-2471.75
+ORD0202,2024-01-03,2024-01-06,Customer_11,North,Accessories,Headphones,Headphones 19,65921.64,10,0.17,2506.08
+ORD0203,2024-02-24,2024-03-01,Customer_83,South,Tablets,Windows Tablet,Windows Tablet 35,34218.93,6,0.01,3927.79
+ORD0204,2024-06-21,2024-06-24,Customer_157,West,Phones,Feature Phone,Feature Phone 39,77122.85,5,0.21,-34.79
+ORD0205,2023-04-09,2023-04-14,Customer_144,North,Accessories,Chargers,Chargers 11,64103.39,8,0.25,-5610.6
+ORD0206,2023-05-28,2023-05-30,Customer_63,South,Phones,iPhone,iPhone 26,47743.98,5,0.06,4489.06
+ORD0207,2024-05-20,2024-05-22,Customer_126,South,Laptops,Business,Business 7,17922.24,1,0.03,3617.68
+ORD0208,2024-08-06,2024-08-08,Customer_181,South,Phones,iPhone,iPhone 19,62873.08,4,0.25,-2024.78
+ORD0209,2023-07-13,2023-07-19,Customer_113,North,Phones,iPhone,iPhone 3,7733.12,1,0.13,592.41
+ORD0210,2024-12-21,2024-12-24,Customer_82,North,Phones,Feature Phone,Feature Phone 32,76872.94,5,0.07,10700.03
+ORD0211,2024-12-25,2024-12-29,Customer_142,West,Laptops,Gaming,Gaming 32,37448.13,4,0.3,-4533.37
+ORD0212,2024-04-02,2024-04-04,Customer_151,West,Accessories,Chargers,Chargers 7,39584.44,1,0.09,994.74
+ORD0213,2024-09-07,2024-09-09,Customer_108,East,Phones,Android,Android 39,88690.55,4,0.22,-12840.09
+ORD0214,2024-05-07,2024-05-13,Customer_183,West,Laptops,Business,Business 5,93366.78,10,0.06,17606.22
+ORD0215,2024-11-29,2024-11-30,Customer_29,South,Tablets,iPad,iPad 9,58730.97,5,0.18,-254.2
+ORD0216,2023-04-28,2023-05-04,Customer_175,North,Tablets,Windows Tablet,Windows Tablet 33,56974.48,3,0.02,9967.61
+ORD0217,2024-01-13,2024-01-14,Customer_12,East,Tablets,Android Tablet,Android Tablet 20,66995.62,3,0.16,-5815.18
+ORD0218,2023-03-18,2023-03-24,Customer_96,South,Tablets,Windows Tablet,Windows Tablet 15,113795.86,4,0.25,-7830.05
+ORD0219,2023-11-22,2023-11-26,Customer_152,South,Phones,Feature Phone,Feature Phone 32,99554.06,6,0.14,-5725.32
+ORD0220,2023-01-13,2023-01-15,Customer_56,East,Tablets,Windows Tablet,Windows Tablet 9,77122.26,8,0.25,-6209.19
+ORD0221,2023-03-29,2023-03-31,Customer_75,North,Tablets,Windows Tablet,Windows Tablet 23,118613.71,6,0.27,-23302.99
+ORD0222,2024-12-17,2024-12-19,Customer_45,South,Tablets,Android Tablet,Android Tablet 1,55782.08,5,0.07,6868.41
+ORD0223,2024-06-06,2024-06-10,Customer_143,South,Accessories,Chargers,Chargers 39,94282.41,9,0.16,2827.32
+ORD0224,2024-02-17,2024-02-19,Customer_155,North,Tablets,Android Tablet,Android Tablet 9,66934.06,3,0.04,3734.9
+ORD0225,2023-04-09,2023-04-11,Customer_54,East,Accessories,Covers,Covers 16,63029.49,3,0.02,2400.68
+ORD0226,2024-12-09,2024-12-11,Customer_44,East,Tablets,iPad,iPad 28,23239.02,2,0.15,71.59
+ORD0227,2023-01-30,2023-02-04,Customer_170,North,Phones,Feature Phone,Feature Phone 50,39234.69,9,0.04,2899.4
+ORD0228,2023-05-06,2023-05-10,Customer_90,South,Tablets,iPad,iPad 16,37773.04,1,0.13,3390.85
+ORD0229,2023-03-28,2023-03-31,Customer_20,South,Accessories,Headphones,Headphones 38,88459.98,7,0.03,16878.56
+ORD0230,2023-04-25,2023-05-01,Customer_180,South,Tablets,Windows Tablet,Windows Tablet 10,59819.93,9,0.22,-2643.33
+ORD0231,2023-08-25,2023-08-27,Customer_128,East,Tablets,iPad,iPad 11,9690.99,9,0.12,-503.87
+ORD0232,2024-07-20,2024-07-22,Customer_101,North,Accessories,Chargers,Chargers 29,54594.02,4,0.21,-838.54
+ORD0233,2023-08-27,2023-09-02,Customer_121,East,Phones,Feature Phone,Feature Phone 24,95860.34,8,0.14,-717.81
+ORD0234,2023-04-10,2023-04-14,Customer_79,East,Accessories,Headphones,Headphones 25,17997.07,8,0.08,2818.65
+ORD0235,2023-01-03,2023-01-05,Customer_122,South,Laptops,Gaming,Gaming 12,8298.86,3,0.15,427.99
+ORD0236,2024-12-31,2025-01-07,Customer_177,North,Tablets,iPad,iPad 16,111442.82,7,0.03,13812.08
+ORD0237,2023-11-28,2023-11-30,Customer_34,North,Laptops,Ultrabook,Ultrabook 36,55851.13,8,0.07,9263.02
+ORD0238,2024-04-11,2024-04-15,Customer_140,East,Tablets,Android Tablet,Android Tablet 50,11741.27,8,0.28,-1895.76
+ORD0239,2024-08-25,2024-09-01,Customer_49,West,Laptops,Business,Business 21,80593.64,6,0.18,-10223.86
+ORD0240,2024-07-19,2024-07-21,Customer_139,South,Tablets,Windows Tablet,Windows Tablet 15,52236.25,8,0.04,1142.67
+ORD0241,2023-04-09,2023-04-13,Customer_199,East,Laptops,Ultrabook,Ultrabook 42,31121.85,9,0.14,298.76
+ORD0242,2024-07-21,2024-07-28,Customer_155,East,Tablets,iPad,iPad 26,81659.59,5,0.14,2469.33
+ORD0243,2024-08-12,2024-08-14,Customer_173,East,Laptops,Gaming,Gaming 49,64496.1,10,0.17,-1322.51
+ORD0244,2023-02-27,2023-03-03,Customer_78,East,Tablets,iPad,iPad 22,19804.81,1,0.26,-2066.66
+ORD0245,2024-04-20,2024-04-23,Customer_160,West,Phones,iPhone,iPhone 47,41388.64,3,0.11,3399.88
+ORD0246,2023-02-02,2023-02-05,Customer_47,West,Phones,Android,Android 20,88460.18,2,0.02,16001.0
+ORD0247,2024-09-18,2024-09-24,Customer_15,North,Accessories,Chargers,Chargers 5,68104.17,3,0.22,948.48
+ORD0248,2024-09-08,2024-09-13,Customer_50,South,Phones,iPhone,iPhone 17,113805.6,5,0.24,-12046.79
+ORD0249,2024-07-02,2024-07-06,Customer_143,North,Tablets,iPad,iPad 47,41366.3,9,0.26,-1254.9
+ORD0250,2024-09-09,2024-09-15,Customer_137,North,Laptops,Ultrabook,Ultrabook 38,51615.64,7,0.27,-1560.15
+ORD0251,2024-09-18,2024-09-19,Customer_9,South,Tablets,Windows Tablet,Windows Tablet 24,53283.18,4,0.29,-5109.11
+ORD0252,2023-05-10,2023-05-13,Customer_75,West,Laptops,Gaming,Gaming 3,43287.8,2,0.21,-4981.3
+ORD0253,2024-07-17,2024-07-24,Customer_131,East,Phones,Android,Android 9,43583.73,9,0.22,-3934.53
+ORD0254,2023-08-12,2023-08-17,Customer_109,West,Phones,Feature Phone,Feature Phone 11,77543.59,5,0.21,-11937.34
+ORD0255,2023-07-23,2023-07-25,Customer_150,East,Accessories,Chargers,Chargers 19,70591.2,3,0.06,5932.84
+ORD0256,2024-08-19,2024-08-25,Customer_177,East,Accessories,Headphones,Headphones 27,52036.31,10,0.17,-5231.06
+ORD0257,2023-03-14,2023-03-15,Customer_166,South,Accessories,Headphones,Headphones 31,16151.71,2,0.14,-481.25
+ORD0258,2023-04-24,2023-04-28,Customer_78,South,Laptops,Gaming,Gaming 20,116591.1,5,0.05,6885.43
+ORD0259,2024-08-30,2024-08-31,Customer_88,South,Phones,iPhone,iPhone 31,10535.61,1,0.13,-800.86
+ORD0260,2024-11-29,2024-12-03,Customer_32,West,Phones,iPhone,iPhone 47,93657.42,10,0.04,8860.56
+ORD0261,2024-02-07,2024-02-08,Customer_131,West,Laptops,Gaming,Gaming 18,109566.44,10,0.13,-7904.0
+ORD0262,2024-12-13,2024-12-16,Customer_27,North,Laptops,Gaming,Gaming 13,58880.9,8,0.26,-10291.81
+ORD0263,2024-06-11,2024-06-14,Customer_171,East,Laptops,Business,Business 24,113317.61,10,0.09,4887.68
+ORD0264,2024-11-20,2024-11-26,Customer_190,South,Accessories,Headphones,Headphones 40,50737.78,3,0.15,-2196.31
+ORD0265,2023-11-22,2023-11-27,Customer_13,North,Phones,Feature Phone,Feature Phone 19,42776.57,8,0.01,7041.69
+ORD0266,2023-05-28,2023-05-31,Customer_69,West,Laptops,Business,Business 9,117655.2,6,0.06,5104.35
+ORD0267,2024-09-30,2024-10-04,Customer_118,West,Accessories,Chargers,Chargers 47,64317.82,5,0.07,2146.88
+ORD0268,2024-04-12,2024-04-19,Customer_168,East,Accessories,Headphones,Headphones 43,66585.15,8,0.11,9245.17
+ORD0269,2024-07-30,2024-08-05,Customer_163,West,Tablets,Windows Tablet,Windows Tablet 19,86253.44,1,0.01,17928.37
+ORD0270,2023-01-18,2023-01-19,Customer_154,West,Tablets,iPad,iPad 21,118313.63,1,0.29,-27032.55
+ORD0271,2023-10-28,2023-11-03,Customer_136,East,Accessories,Headphones,Headphones 36,8785.28,8,0.2,-750.68
+ORD0272,2024-12-09,2024-12-13,Customer_172,North,Phones,Feature Phone,Feature Phone 44,12355.62,7,0.15,-1052.43
+ORD0273,2024-01-27,2024-02-02,Customer_123,West,Laptops,Ultrabook,Ultrabook 30,119157.42,7,0.25,-12669.09
+ORD0274,2023-08-20,2023-08-23,Customer_96,West,Tablets,Android Tablet,Android Tablet 38,3752.58,9,0.21,-240.81
+ORD0275,2023-09-29,2023-10-05,Customer_22,North,Phones,iPhone,iPhone 43,29244.42,4,0.06,3146.09
+ORD0276,2023-03-05,2023-03-10,Customer_30,East,Phones,iPhone,iPhone 48,44577.29,7,0.25,-4990.17
+ORD0277,2023-02-28,2023-03-06,Customer_165,North,Laptops,Business,Business 33,45850.53,10,0.16,-3432.62
+ORD0278,2023-11-20,2023-11-23,Customer_133,South,Accessories,Covers,Covers 4,27540.36,9,0.19,1389.08
+ORD0279,2024-12-12,2024-12-13,Customer_188,West,Tablets,Android Tablet,Android Tablet 7,77155.16,2,0.21,-489.09
+ORD0280,2023-05-10,2023-05-17,Customer_90,West,Phones,iPhone,iPhone 26,53339.21,3,0.09,8087.77
+ORD0281,2024-03-26,2024-04-01,Customer_188,West,Accessories,Chargers,Chargers 34,35996.65,8,0.22,-1715.2
+ORD0282,2024-10-23,2024-10-24,Customer_184,West,Phones,Android,Android 27,95696.48,9,0.18,5784.21
+ORD0283,2023-08-10,2023-08-11,Customer_163,South,Accessories,Covers,Covers 24,64108.95,7,0.16,-1734.34
+ORD0284,2024-03-29,2024-03-30,Customer_24,West,Accessories,Headphones,Headphones 14,27451.76,4,0.27,-3250.18
+ORD0285,2023-10-29,2023-11-03,Customer_172,South,Accessories,Covers,Covers 36,4567.57,8,0.01,537.08
+ORD0286,2024-05-28,2024-05-30,Customer_136,North,Accessories,Headphones,Headphones 45,103472.56,10,0.09,9223.21
+ORD0287,2023-05-04,2023-05-06,Customer_40,East,Laptops,Ultrabook,Ultrabook 43,44193.06,1,0.0,7581.94
+ORD0288,2024-02-24,2024-03-02,Customer_54,North,Accessories,Headphones,Headphones 36,17804.64,10,0.11,1507.92
+ORD0289,2023-05-21,2023-05-26,Customer_74,South,Tablets,iPad,iPad 42,77246.81,9,0.12,4941.41
+ORD0290,2024-11-10,2024-11-12,Customer_124,South,Phones,iPhone,iPhone 16,96512.98,4,0.26,-11633.25
+ORD0291,2024-12-27,2024-12-30,Customer_126,East,Phones,Feature Phone,Feature Phone 47,75082.43,7,0.23,-7189.76
+ORD0292,2023-06-26,2023-07-01,Customer_114,South,Laptops,Ultrabook,Ultrabook 2,44661.14,5,0.29,-6507.13
+ORD0293,2023-02-06,2023-02-07,Customer_197,South,Laptops,Ultrabook,Ultrabook 22,32521.41,9,0.13,-1888.27
+ORD0294,2024-02-15,2024-02-22,Customer_79,East,Accessories,Chargers,Chargers 15,42234.28,10,0.11,4015.49
+ORD0295,2023-04-02,2023-04-06,Customer_116,East,Laptops,Gaming,Gaming 34,18657.22,8,0.22,-1222.07
+ORD0296,2023-02-24,2023-02-27,Customer_23,South,Laptops,Gaming,Gaming 18,22667.83,10,0.04,2581.24
+ORD0297,2023-10-18,2023-10-23,Customer_174,South,Tablets,Android Tablet,Android Tablet 19,108094.37,1,0.21,685.25
+ORD0298,2023-03-12,2023-03-15,Customer_76,South,Accessories,Covers,Covers 42,83659.14,4,0.2,-2050.09
+ORD0299,2024-05-17,2024-05-22,Customer_10,East,Laptops,Business,Business 18,84774.47,10,0.0,16419.87
+ORD0300,2023-04-21,2023-04-25,Customer_24,North,Tablets,Android Tablet,Android Tablet 20,98121.35,1,0.03,13870.36
+ORD0301,2023-04-12,2023-04-18,Customer_151,West,Phones,Feature Phone,Feature Phone 46,81884.35,10,0.26,-14133.06
+ORD0302,2023-06-23,2023-06-25,Customer_145,South,Laptops,Gaming,Gaming 33,114066.82,8,0.18,968.53
+ORD0303,2024-02-02,2024-02-08,Customer_155,South,Tablets,Android Tablet,Android Tablet 31,95555.25,2,0.05,5559.31
+ORD0304,2023-06-10,2023-06-15,Customer_119,East,Accessories,Covers,Covers 34,77119.56,5,0.0,3944.92
+ORD0305,2024-05-20,2024-05-25,Customer_52,West,Laptops,Business,Business 19,12060.72,4,0.15,561.83
+ORD0306,2024-10-18,2024-10-23,Customer_109,West,Phones,Android,Android 3,56103.71,8,0.22,-9108.5
+ORD0307,2024-05-13,2024-05-17,Customer_191,East,Laptops,Business,Business 6,111858.9,5,0.28,-16420.16
+ORD0308,2023-03-07,2023-03-09,Customer_107,South,Phones,Feature Phone,Feature Phone 41,21605.17,6,0.11,473.77
+ORD0309,2024-10-18,2024-10-22,Customer_189,North,Tablets,Windows Tablet,Windows Tablet 20,104341.85,10,0.23,-5166.79
+ORD0310,2023-07-01,2023-07-02,Customer_25,East,Phones,Android,Android 33,11500.84,7,0.3,-2527.68
+ORD0311,2024-10-22,2024-10-27,Customer_120,North,Phones,iPhone,iPhone 39,114841.85,5,0.1,13959.19
+ORD0312,2023-12-09,2023-12-10,Customer_159,West,Phones,Android,Android 3,102590.53,6,0.13,-3378.62
+ORD0313,2023-06-21,2023-06-28,Customer_122,West,Laptops,Business,Business 30,9283.69,1,0.03,1172.27
+ORD0314,2023-12-19,2023-12-25,Customer_97,South,Phones,Android,Android 39,66369.25,4,0.01,14667.19
+ORD0315,2024-06-27,2024-07-04,Customer_186,East,Laptops,Gaming,Gaming 38,82179.27,1,0.16,-5753.4
+ORD0316,2023-09-19,2023-09-24,Customer_174,East,Phones,Android,Android 47,77767.14,4,0.11,1987.84
+ORD0317,2023-10-09,2023-10-12,Customer_1,North,Laptops,Gaming,Gaming 22,6353.82,10,0.17,484.72
+ORD0318,2024-02-17,2024-02-23,Customer_94,West,Tablets,iPad,iPad 37,49572.4,6,0.18,-2563.68
+ORD0319,2023-07-07,2023-07-14,Customer_198,North,Laptops,Business,Business 11,14468.02,5,0.1,1718.36
+ORD0320,2023-02-05,2023-02-09,Customer_125,West,Tablets,Android Tablet,Android Tablet 25,54933.21,8,0.1,2245.92
+ORD0321,2023-09-10,2023-09-15,Customer_91,South,Accessories,Covers,Covers 35,46635.63,6,0.21,202.71
+ORD0322,2023-06-03,2023-06-07,Customer_83,East,Tablets,Android Tablet,Android Tablet 12,52624.31,8,0.25,-4789.71
+ORD0323,2023-04-20,2023-04-21,Customer_200,East,Tablets,iPad,iPad 12,16332.25,6,0.22,-1529.72
+ORD0324,2023-03-28,2023-04-04,Customer_98,West,Phones,Feature Phone,Feature Phone 32,118941.31,4,0.25,-945.45
+ORD0325,2023-05-03,2023-05-07,Customer_137,South,Accessories,Covers,Covers 4,23178.89,5,0.19,-1039.64
+ORD0326,2023-03-21,2023-03-23,Customer_189,North,Accessories,Chargers,Chargers 4,48517.11,7,0.13,4545.98
+ORD0327,2024-11-17,2024-11-24,Customer_184,East,Accessories,Headphones,Headphones 37,84617.2,7,0.28,-8920.83
+ORD0328,2023-08-30,2023-09-01,Customer_117,North,Accessories,Covers,Covers 45,43816.4,6,0.1,5565.95
+ORD0329,2023-04-18,2023-04-21,Customer_197,South,Phones,Feature Phone,Feature Phone 43,53285.07,6,0.07,7006.97
+ORD0330,2023-12-30,2024-01-04,Customer_158,West,Accessories,Covers,Covers 8,88356.5,1,0.09,1814.02
+ORD0331,2023-04-23,2023-04-29,Customer_47,East,Tablets,Windows Tablet,Windows Tablet 10,26601.77,3,0.14,1027.25
+ORD0332,2023-10-26,2023-10-31,Customer_194,West,Tablets,Windows Tablet,Windows Tablet 34,93204.38,5,0.09,11990.92
+ORD0333,2024-05-17,2024-05-23,Customer_183,East,Tablets,Windows Tablet,Windows Tablet 21,26381.28,7,0.14,1746.15
+ORD0334,2024-05-15,2024-05-22,Customer_49,West,Laptops,Business,Business 35,69181.35,9,0.1,2990.89
+ORD0335,2023-09-20,2023-09-21,Customer_11,West,Phones,Android,Android 45,10424.91,10,0.05,1876.38
+ORD0336,2024-08-26,2024-09-01,Customer_168,North,Tablets,Windows Tablet,Windows Tablet 19,69793.66,6,0.08,7409.74
+ORD0337,2024-07-29,2024-07-31,Customer_33,East,Tablets,Android Tablet,Android Tablet 34,24357.87,1,0.0,2137.0
+ORD0338,2023-12-09,2023-12-14,Customer_74,North,Accessories,Covers,Covers 45,103845.63,9,0.22,-561.51
+ORD0339,2023-01-08,2023-01-11,Customer_198,South,Accessories,Headphones,Headphones 30,38988.61,5,0.27,-1928.0
+ORD0340,2024-11-21,2024-11-23,Customer_97,North,Laptops,Ultrabook,Ultrabook 21,92298.65,3,0.11,-4492.46
+ORD0341,2023-03-07,2023-03-10,Customer_26,East,Accessories,Covers,Covers 7,19278.29,8,0.16,-1841.12
+ORD0342,2023-10-21,2023-10-23,Customer_55,East,Tablets,Windows Tablet,Windows Tablet 20,103575.58,3,0.08,8040.21
+ORD0343,2024-11-17,2024-11-18,Customer_184,South,Laptops,Ultrabook,Ultrabook 31,16673.04,3,0.17,406.41
+ORD0344,2023-01-02,2023-01-08,Customer_8,North,Phones,Feature Phone,Feature Phone 34,75506.26,8,0.26,-5128.22
+ORD0345,2023-03-25,2023-03-31,Customer_108,North,Accessories,Covers,Covers 37,62094.55,3,0.24,-8298.7
+ORD0346,2023-11-20,2023-11-21,Customer_191,South,Laptops,Business,Business 10,64770.85,6,0.09,710.38
+ORD0347,2023-02-09,2023-02-13,Customer_175,North,Laptops,Gaming,Gaming 1,32416.49,7,0.21,-1711.01
+ORD0348,2024-01-28,2024-02-03,Customer_180,West,Laptops,Business,Business 33,60095.95,9,0.21,-724.36
+ORD0349,2023-04-25,2023-04-29,Customer_2,East,Tablets,Windows Tablet,Windows Tablet 12,4247.01,2,0.21,-311.54
+ORD0350,2023-08-15,2023-08-20,Customer_141,East,Tablets,iPad,iPad 22,19151.23,9,0.19,-502.65
+ORD0351,2023-11-09,2023-11-13,Customer_97,West,Tablets,Windows Tablet,Windows Tablet 3,14384.41,1,0.24,-861.44
+ORD0352,2023-09-29,2023-10-06,Customer_184,North,Accessories,Chargers,Chargers 25,69607.94,2,0.1,-1474.93
+ORD0353,2024-02-14,2024-02-20,Customer_8,North,Accessories,Covers,Covers 25,115479.13,3,0.03,21194.82
+ORD0354,2023-12-12,2023-12-14,Customer_48,East,Phones,iPhone,iPhone 18,87826.3,1,0.28,-5270.54
+ORD0355,2023-11-03,2023-11-06,Customer_143,West,Laptops,Business,Business 21,108512.44,2,0.13,3414.17
+ORD0356,2024-03-29,2024-03-31,Customer_179,West,Phones,iPhone,iPhone 31,54589.82,7,0.12,2360.03
+ORD0357,2024-12-25,2024-12-31,Customer_78,East,Tablets,Windows Tablet,Windows Tablet 22,31308.55,10,0.3,-3918.79
+ORD0358,2023-08-24,2023-08-31,Customer_61,East,Tablets,Windows Tablet,Windows Tablet 20,114389.6,8,0.1,16008.89
+ORD0359,2024-07-13,2024-07-16,Customer_53,West,Phones,Feature Phone,Feature Phone 8,48195.71,9,0.29,-2552.47
+ORD0360,2023-04-15,2023-04-18,Customer_17,East,Laptops,Ultrabook,Ultrabook 13,116493.23,6,0.08,18842.85
+ORD0361,2024-03-05,2024-03-07,Customer_48,North,Phones,iPhone,iPhone 3,77688.58,8,0.28,-15940.3
+ORD0362,2024-09-17,2024-09-24,Customer_167,East,Phones,iPhone,iPhone 4,45738.85,9,0.07,4549.81
+ORD0363,2023-10-13,2023-10-15,Customer_149,North,Phones,iPhone,iPhone 7,90077.48,9,0.2,3581.73
+ORD0364,2023-08-29,2023-08-30,Customer_102,West,Tablets,iPad,iPad 46,28295.22,7,0.19,-2048.33
+ORD0365,2024-06-29,2024-06-30,Customer_65,South,Phones,iPhone,iPhone 42,48879.08,7,0.08,-834.38
+ORD0366,2023-05-12,2023-05-14,Customer_145,South,Tablets,iPad,iPad 44,105999.54,8,0.02,19626.49
+ORD0367,2023-08-30,2023-09-06,Customer_100,South,Tablets,Android Tablet,Android Tablet 30,101068.54,9,0.12,1953.27
+ORD0368,2023-04-07,2023-04-11,Customer_192,West,Accessories,Chargers,Chargers 46,22017.96,5,0.12,836.22
+ORD0369,2023-07-14,2023-07-18,Customer_25,West,Tablets,iPad,iPad 43,40115.22,1,0.02,4892.11
+ORD0370,2024-06-10,2024-06-16,Customer_164,South,Tablets,Windows Tablet,Windows Tablet 33,37787.1,3,0.02,4205.75
+ORD0371,2023-02-11,2023-02-12,Customer_28,North,Laptops,Business,Business 19,46465.6,9,0.24,-7975.09
+ORD0372,2024-07-05,2024-07-10,Customer_64,North,Laptops,Ultrabook,Ultrabook 27,14073.14,8,0.03,3029.08
+ORD0373,2024-08-21,2024-08-25,Customer_44,South,Phones,iPhone,iPhone 48,53051.55,3,0.06,5183.86
+ORD0374,2023-08-18,2023-08-25,Customer_3,West,Tablets,iPad,iPad 48,44800.67,6,0.09,-1333.11
+ORD0375,2024-02-15,2024-02-22,Customer_133,West,Accessories,Chargers,Chargers 1,96249.25,9,0.2,324.65
+ORD0376,2023-05-22,2023-05-28,Customer_168,South,Phones,Feature Phone,Feature Phone 25,7627.1,9,0.13,868.65
+ORD0377,2023-05-27,2023-05-30,Customer_136,West,Laptops,Ultrabook,Ultrabook 13,112761.73,7,0.08,-2901.8
+ORD0378,2023-09-17,2023-09-24,Customer_144,East,Accessories,Chargers,Chargers 22,105357.75,3,0.15,-5873.74
+ORD0379,2024-06-28,2024-07-01,Customer_188,North,Accessories,Chargers,Chargers 9,34411.19,5,0.14,-684.81
+ORD0380,2023-01-21,2023-01-28,Customer_135,South,Phones,Feature Phone,Feature Phone 40,24266.2,5,0.23,-2176.14
+ORD0381,2024-12-12,2024-12-14,Customer_196,West,Tablets,Android Tablet,Android Tablet 50,56567.04,1,0.05,4532.96
+ORD0382,2024-11-15,2024-11-17,Customer_42,South,Laptops,Ultrabook,Ultrabook 47,59827.99,4,0.26,-9422.65
+ORD0383,2024-07-05,2024-07-08,Customer_181,North,Tablets,Android Tablet,Android Tablet 33,78355.73,5,0.1,4611.19
+ORD0384,2023-11-12,2023-11-14,Customer_68,North,Phones,Feature Phone,Feature Phone 38,79671.5,5,0.2,-9435.95
+ORD0385,2023-11-03,2023-11-09,Customer_167,West,Accessories,Chargers,Chargers 43,95838.83,7,0.22,-11859.94
+ORD0386,2024-04-07,2024-04-14,Customer_56,South,Tablets,Android Tablet,Android Tablet 9,92259.96,9,0.29,-21053.23
+ORD0387,2024-01-23,2024-01-29,Customer_183,West,Laptops,Business,Business 40,111883.77,9,0.23,-19749.98
+ORD0388,2024-09-18,2024-09-22,Customer_57,West,Accessories,Covers,Covers 29,43655.61,3,0.05,2202.32
+ORD0389,2023-11-03,2023-11-08,Customer_122,South,Laptops,Business,Business 45,41119.59,1,0.05,5937.46
+ORD0390,2023-01-18,2023-01-20,Customer_150,West,Accessories,Headphones,Headphones 40,42627.97,5,0.06,4697.23
+ORD0391,2024-04-25,2024-05-01,Customer_184,East,Tablets,iPad,iPad 19,77055.85,4,0.27,-4396.52
+ORD0392,2023-11-05,2023-11-07,Customer_193,South,Laptops,Business,Business 20,64511.94,8,0.14,-1617.14
+ORD0393,2023-03-17,2023-03-21,Customer_114,South,Accessories,Chargers,Chargers 42,77968.04,1,0.14,6860.56
+ORD0394,2024-04-28,2024-05-02,Customer_26,North,Accessories,Covers,Covers 27,71900.1,5,0.22,-5451.96
+ORD0395,2023-07-31,2023-08-02,Customer_161,West,Accessories,Covers,Covers 44,50265.58,9,0.27,-11015.38
+ORD0396,2023-09-07,2023-09-10,Customer_90,North,Phones,Android,Android 45,62782.52,1,0.14,6896.4
+ORD0397,2023-08-09,2023-08-13,Customer_38,West,Accessories,Headphones,Headphones 40,33277.87,1,0.14,-2588.82
+ORD0398,2024-02-08,2024-02-13,Customer_61,East,Phones,iPhone,iPhone 5,48889.63,10,0.22,-238.3
+ORD0399,2024-04-17,2024-04-24,Customer_191,South,Accessories,Chargers,Chargers 46,117624.89,3,0.24,-17285.46
+ORD0400,2023-05-02,2023-05-07,Customer_4,West,Phones,Feature Phone,Feature Phone 23,113264.28,5,0.14,777.05
+ORD0401,2023-07-17,2023-07-24,Customer_175,West,Tablets,iPad,iPad 9,107189.93,1,0.19,-1127.46
+ORD0402,2024-02-10,2024-02-12,Customer_27,North,Phones,iPhone,iPhone 25,112549.6,7,0.17,927.15
+ORD0403,2023-01-15,2023-01-19,Customer_81,South,Tablets,Android Tablet,Android Tablet 14,78727.44,8,0.21,-10809.5
+ORD0404,2024-06-08,2024-06-14,Customer_103,South,Accessories,Covers,Covers 8,118988.6,6,0.24,-2579.96
+ORD0405,2023-01-16,2023-01-20,Customer_119,North,Accessories,Covers,Covers 8,43592.22,5,0.1,3286.72
+ORD0406,2024-05-18,2024-05-25,Customer_104,West,Accessories,Chargers,Chargers 6,15208.08,7,0.2,350.14
+ORD0407,2023-06-04,2023-06-10,Customer_44,East,Accessories,Chargers,Chargers 38,34479.6,4,0.1,3202.85
+ORD0408,2024-06-03,2024-06-04,Customer_1,East,Accessories,Chargers,Chargers 45,97934.19,7,0.0,10379.78
+ORD0409,2024-12-08,2024-12-10,Customer_99,North,Accessories,Headphones,Headphones 37,107988.97,9,0.03,12577.56
+ORD0410,2023-08-11,2023-08-12,Customer_96,South,Tablets,Android Tablet,Android Tablet 17,77586.74,3,0.14,2721.94
+ORD0411,2023-12-26,2023-12-29,Customer_29,South,Accessories,Headphones,Headphones 31,26042.64,4,0.27,-845.4
+ORD0412,2023-06-05,2023-06-12,Customer_96,West,Laptops,Business,Business 36,110019.68,5,0.24,-11724.55
+ORD0413,2023-07-05,2023-07-08,Customer_60,South,Phones,Feature Phone,Feature Phone 14,32979.58,1,0.1,-416.13
+ORD0414,2023-08-15,2023-08-21,Customer_148,West,Phones,Android,Android 2,116047.59,4,0.28,-14703.07
+ORD0415,2024-04-11,2024-04-17,Customer_148,West,Accessories,Chargers,Chargers 13,117786.83,6,0.11,13820.18
+ORD0416,2024-11-06,2024-11-10,Customer_89,West,Laptops,Business,Business 12,53665.15,5,0.2,-2517.58
+ORD0417,2024-05-13,2024-05-19,Customer_173,North,Tablets,Android Tablet,Android Tablet 30,54231.25,4,0.24,-6496.72
+ORD0418,2023-03-16,2023-03-20,Customer_72,East,Accessories,Chargers,Chargers 34,104022.03,1,0.17,-2199.07
+ORD0419,2024-04-18,2024-04-21,Customer_167,South,Laptops,Ultrabook,Ultrabook 2,60810.53,2,0.11,8238.6
+ORD0420,2023-07-25,2023-07-31,Customer_32,North,Laptops,Ultrabook,Ultrabook 9,36811.3,4,0.1,-119.94
+ORD0421,2024-07-05,2024-07-12,Customer_72,South,Accessories,Chargers,Chargers 19,110212.17,1,0.05,5625.6
+ORD0422,2024-03-09,2024-03-10,Customer_55,North,Phones,Feature Phone,Feature Phone 28,88034.88,7,0.18,-1148.85
+ORD0423,2024-11-21,2024-11-27,Customer_3,North,Laptops,Business,Business 29,78416.44,7,0.2,-2913.21
+ORD0424,2024-06-12,2024-06-13,Customer_164,South,Tablets,Android Tablet,Android Tablet 49,68362.48,4,0.28,-7938.64
+ORD0425,2024-12-17,2024-12-21,Customer_86,South,Tablets,Android Tablet,Android Tablet 10,110254.84,6,0.21,-10412.98
+ORD0426,2024-10-11,2024-10-15,Customer_9,East,Tablets,iPad,iPad 28,43971.81,6,0.16,-3334.82
+ORD0427,2024-07-05,2024-07-06,Customer_50,West,Laptops,Business,Business 5,52751.4,4,0.08,3996.09
+ORD0428,2024-10-30,2024-11-01,Customer_44,North,Accessories,Chargers,Chargers 25,84505.27,2,0.01,8278.05
+ORD0429,2023-07-24,2023-07-31,Customer_26,West,Laptops,Business,Business 15,97237.34,6,0.01,19239.03
+ORD0430,2023-04-26,2023-04-30,Customer_23,West,Phones,Android,Android 22,22510.91,4,0.12,1105.33
+ORD0431,2023-12-23,2023-12-27,Customer_5,North,Tablets,iPad,iPad 18,90914.3,6,0.12,1740.3
+ORD0432,2023-03-12,2023-03-13,Customer_9,North,Phones,Android,Android 13,13409.24,4,0.25,-28.4
+ORD0433,2024-03-27,2024-03-30,Customer_45,North,Phones,iPhone,iPhone 14,82516.88,9,0.21,1377.61
+ORD0434,2023-08-12,2023-08-15,Customer_60,East,Phones,iPhone,iPhone 19,99492.64,6,0.13,1118.05
+ORD0435,2024-12-06,2024-12-12,Customer_32,North,Tablets,iPad,iPad 12,54767.59,3,0.25,-5420.52
+ORD0436,2024-08-29,2024-09-01,Customer_144,East,Phones,Android,Android 23,93764.82,1,0.24,-2567.77
+ORD0437,2023-10-10,2023-10-14,Customer_172,South,Accessories,Headphones,Headphones 2,40690.51,5,0.0,7728.54
+ORD0438,2023-07-05,2023-07-09,Customer_8,South,Tablets,Windows Tablet,Windows Tablet 17,57033.81,8,0.2,-528.48
+ORD0439,2024-02-18,2024-02-25,Customer_139,North,Tablets,Android Tablet,Android Tablet 5,38855.0,9,0.01,4113.07
+ORD0440,2024-05-31,2024-06-06,Customer_54,North,Accessories,Chargers,Chargers 32,68695.29,1,0.09,10591.33
+ORD0441,2024-02-23,2024-02-28,Customer_104,South,Tablets,Android Tablet,Android Tablet 34,28654.35,6,0.26,-6001.06
+ORD0442,2024-11-24,2024-11-29,Customer_177,North,Laptops,Business,Business 14,34399.2,7,0.0,3426.28
+ORD0443,2024-04-30,2024-05-06,Customer_110,East,Laptops,Gaming,Gaming 20,95040.85,2,0.27,-1961.45
+ORD0444,2023-11-04,2023-11-11,Customer_196,North,Phones,Feature Phone,Feature Phone 33,13204.44,5,0.09,71.48
+ORD0445,2023-01-05,2023-01-07,Customer_59,West,Accessories,Headphones,Headphones 37,115772.07,4,0.24,-7033.17
+ORD0446,2024-05-09,2024-05-16,Customer_178,West,Phones,Feature Phone,Feature Phone 31,24434.97,10,0.12,1707.52
+ORD0447,2024-07-14,2024-07-19,Customer_61,North,Phones,Feature Phone,Feature Phone 37,85593.39,4,0.01,17101.25
+ORD0448,2024-03-08,2024-03-12,Customer_79,East,Tablets,iPad,iPad 16,77056.13,4,0.16,-7572.08
+ORD0449,2023-12-18,2023-12-22,Customer_178,West,Laptops,Gaming,Gaming 10,20163.03,5,0.16,878.87
+ORD0450,2023-03-03,2023-03-08,Customer_79,East,Laptops,Business,Business 23,2601.4,6,0.3,-446.04
+ORD0451,2024-06-06,2024-06-13,Customer_194,North,Phones,Android,Android 29,33982.56,1,0.17,-3840.35
+ORD0452,2024-03-12,2024-03-19,Customer_63,East,Tablets,Windows Tablet,Windows Tablet 38,69233.22,6,0.04,8512.95
+ORD0453,2024-08-20,2024-08-23,Customer_180,West,Laptops,Ultrabook,Ultrabook 45,64278.27,10,0.06,3079.48
+ORD0454,2024-06-21,2024-06-23,Customer_117,North,Tablets,Android Tablet,Android Tablet 10,23126.19,1,0.1,1748.04
+ORD0455,2023-07-04,2023-07-07,Customer_72,East,Phones,Feature Phone,Feature Phone 31,39524.57,2,0.2,16.5
+ORD0456,2023-05-10,2023-05-11,Customer_39,North,Accessories,Covers,Covers 39,53751.37,5,0.18,326.38
+ORD0457,2024-12-06,2024-12-11,Customer_50,South,Laptops,Business,Business 34,92963.22,3,0.16,3430.16
+ORD0458,2023-10-04,2023-10-09,Customer_105,West,Laptops,Business,Business 42,60736.51,8,0.27,-6601.8
+ORD0459,2024-12-31,2025-01-04,Customer_191,South,Phones,Feature Phone,Feature Phone 10,37952.55,3,0.04,5820.38
+ORD0460,2024-02-17,2024-02-24,Customer_117,North,Laptops,Ultrabook,Ultrabook 22,100783.25,3,0.18,-2474.14
+ORD0461,2024-02-17,2024-02-18,Customer_130,South,Tablets,Android Tablet,Android Tablet 10,72495.61,6,0.21,-4987.54
+ORD0462,2023-08-23,2023-08-30,Customer_57,West,Laptops,Gaming,Gaming 30,31246.96,10,0.18,-3100.28
+ORD0463,2024-10-14,2024-10-21,Customer_97,West,Accessories,Chargers,Chargers 16,22207.12,8,0.14,102.8
+ORD0464,2024-11-29,2024-12-04,Customer_25,North,Laptops,Business,Business 3,15412.46,2,0.23,-483.92
+ORD0465,2024-10-21,2024-10-24,Customer_153,North,Phones,Feature Phone,Feature Phone 35,26297.64,4,0.25,-5051.81
+ORD0466,2024-12-09,2024-12-16,Customer_196,West,Laptops,Gaming,Gaming 44,32151.97,6,0.1,2045.32
+ORD0467,2023-02-07,2023-02-10,Customer_12,South,Phones,iPhone,iPhone 17,22698.55,1,0.03,2548.15
+ORD0468,2023-03-16,2023-03-21,Customer_16,South,Tablets,iPad,iPad 14,105609.81,6,0.03,11215.47
+ORD0469,2024-04-20,2024-04-27,Customer_120,East,Phones,Android,Android 17,71114.65,8,0.28,-11361.91
+ORD0470,2024-09-21,2024-09-28,Customer_98,West,Tablets,iPad,iPad 15,22180.89,3,0.12,-382.25
+ORD0471,2023-06-29,2023-06-30,Customer_104,North,Phones,Android,Android 45,30300.57,9,0.02,1652.91
+ORD0472,2024-09-11,2024-09-15,Customer_1,East,Phones,Android,Android 46,23056.66,5,0.08,363.67
+ORD0473,2024-05-24,2024-05-30,Customer_92,South,Tablets,Android Tablet,Android Tablet 15,110237.18,6,0.15,10027.29
+ORD0474,2024-09-26,2024-10-02,Customer_84,East,Phones,Feature Phone,Feature Phone 7,59860.68,3,0.14,-4701.18
+ORD0475,2024-09-25,2024-09-26,Customer_108,West,Accessories,Headphones,Headphones 37,53094.33,5,0.06,5900.96
+ORD0476,2023-04-04,2023-04-05,Customer_63,East,Tablets,Android Tablet,Android Tablet 16,106719.65,8,0.02,4520.03
+ORD0477,2024-03-21,2024-03-26,Customer_142,East,Laptops,Ultrabook,Ultrabook 22,95579.41,3,0.06,6718.91
+ORD0478,2024-10-28,2024-10-30,Customer_37,North,Accessories,Chargers,Chargers 34,82469.62,2,0.07,4918.58
+ORD0479,2023-08-15,2023-08-16,Customer_71,West,Laptops,Ultrabook,Ultrabook 4,105648.55,7,0.07,18879.75
+ORD0480,2023-02-17,2023-02-20,Customer_195,West,Phones,Android,Android 31,29989.55,7,0.26,-3710.73
+ORD0481,2024-05-23,2024-05-30,Customer_160,North,Phones,Feature Phone,Feature Phone 37,88411.64,7,0.16,-1316.31
+ORD0482,2023-01-25,2023-01-31,Customer_89,West,Phones,iPhone,iPhone 40,86104.53,8,0.09,2265.84
+ORD0483,2023-05-26,2023-05-30,Customer_125,North,Laptops,Business,Business 36,28405.52,7,0.14,306.79
+ORD0484,2023-10-31,2023-11-04,Customer_102,North,Tablets,iPad,iPad 10,5478.06,1,0.08,715.43
+ORD0485,2023-03-23,2023-03-24,Customer_115,East,Tablets,iPad,iPad 45,31917.96,1,0.08,-860.48
+ORD0486,2023-08-25,2023-08-27,Customer_92,North,Accessories,Chargers,Chargers 30,48807.95,7,0.07,4970.79
+ORD0487,2024-12-04,2024-12-09,Customer_119,South,Tablets,Android Tablet,Android Tablet 46,26016.03,3,0.01,5318.33
+ORD0488,2023-01-29,2023-01-31,Customer_38,North,Phones,Android,Android 30,45578.67,5,0.13,-1898.66
+ORD0489,2023-03-05,2023-03-10,Customer_70,South,Accessories,Chargers,Chargers 11,110946.47,9,0.0,10992.75
+ORD0490,2023-02-13,2023-02-16,Customer_120,West,Phones,Feature Phone,Feature Phone 48,78205.86,9,0.01,8902.35
+ORD0491,2024-01-14,2024-01-15,Customer_111,East,Accessories,Headphones,Headphones 20,52631.35,2,0.01,2974.5
+ORD0492,2023-11-04,2023-11-09,Customer_52,South,Tablets,Android Tablet,Android Tablet 16,106300.93,8,0.04,22197.78
+ORD0493,2023-05-02,2023-05-08,Customer_61,East,Laptops,Gaming,Gaming 37,95949.82,4,0.26,-18696.29
+ORD0494,2023-06-07,2023-06-12,Customer_194,East,Accessories,Chargers,Chargers 8,111770.31,5,0.01,26252.28
+ORD0495,2024-07-23,2024-07-26,Customer_32,East,Tablets,iPad,iPad 50,59576.07,3,0.25,-6622.1
+ORD0496,2024-11-30,2024-12-03,Customer_88,North,Phones,Android,Android 31,115297.49,8,0.0,15818.99
+ORD0497,2024-12-09,2024-12-13,Customer_85,West,Phones,iPhone,iPhone 23,20616.75,2,0.3,-1220.35
+ORD0498,2023-07-30,2023-08-05,Customer_175,East,Accessories,Headphones,Headphones 20,5329.91,9,0.09,-22.78
+ORD0499,2024-03-08,2024-03-09,Customer_35,West,Tablets,Windows Tablet,Windows Tablet 47,28237.67,10,0.04,2854.77
+ORD0500,2024-11-12,2024-11-17,Customer_53,North,Tablets,iPad,iPad 47,25879.95,7,0.27,-5640.8
+ORD0501,2023-08-21,2023-08-22,Customer_143,North,Phones,iPhone,iPhone 15,9752.29,10,0.03,1724.13
+ORD0502,2023-06-09,2023-06-15,Customer_2,North,Accessories,Chargers,Chargers 16,44154.68,4,0.11,-2176.02
+ORD0503,2023-02-22,2023-02-28,Customer_136,North,Tablets,Windows Tablet,Windows Tablet 30,106098.99,5,0.02,9569.72
+ORD0504,2023-02-12,2023-02-13,Customer_196,East,Laptops,Gaming,Gaming 10,55267.27,2,0.01,3694.34
+ORD0505,2023-11-10,2023-11-12,Customer_86,North,Phones,Android,Android 50,29737.74,2,0.06,2628.23
+ORD0506,2023-05-09,2023-05-10,Customer_95,West,Phones,Feature Phone,Feature Phone 13,58773.69,10,0.29,-11279.37
+ORD0507,2024-12-04,2024-12-08,Customer_94,South,Tablets,iPad,iPad 26,117069.91,2,0.05,4003.13
+ORD0508,2024-05-31,2024-06-06,Customer_1,East,Tablets,Android Tablet,Android Tablet 49,50760.22,7,0.1,-1097.45
+ORD0509,2024-02-23,2024-02-28,Customer_31,East,Phones,Android,Android 19,50397.96,5,0.19,-2177.46
+ORD0510,2023-04-13,2023-04-19,Customer_152,South,Tablets,Windows Tablet,Windows Tablet 22,95059.74,9,0.11,18.88
+ORD0511,2024-03-21,2024-03-24,Customer_96,West,Tablets,Windows Tablet,Windows Tablet 36,24253.35,5,0.01,4587.48
+ORD0512,2024-04-26,2024-05-02,Customer_91,East,Tablets,Windows Tablet,Windows Tablet 36,104439.65,6,0.02,12786.44
+ORD0513,2024-12-30,2024-12-31,Customer_136,East,Tablets,iPad,iPad 8,105585.38,10,0.13,4178.21
+ORD0514,2024-02-12,2024-02-16,Customer_156,East,Tablets,Windows Tablet,Windows Tablet 21,82702.28,6,0.03,5471.13
+ORD0515,2024-09-02,2024-09-03,Customer_107,West,Laptops,Gaming,Gaming 18,11085.86,4,0.28,-2367.13
+ORD0516,2024-08-07,2024-08-12,Customer_79,East,Accessories,Chargers,Chargers 16,85294.25,7,0.04,4055.37
+ORD0517,2024-09-10,2024-09-12,Customer_84,South,Accessories,Headphones,Headphones 36,117129.8,3,0.03,16721.42
+ORD0518,2024-05-11,2024-05-15,Customer_176,West,Laptops,Business,Business 29,11928.07,8,0.28,-1992.84
+ORD0519,2024-07-18,2024-07-24,Customer_173,South,Tablets,Windows Tablet,Windows Tablet 21,111523.92,1,0.2,4725.9
+ORD0520,2024-01-17,2024-01-21,Customer_28,South,Tablets,Windows Tablet,Windows Tablet 31,67053.71,6,0.27,-8402.39
+ORD0521,2024-09-18,2024-09-19,Customer_148,East,Tablets,iPad,iPad 27,7981.84,4,0.11,219.14
+ORD0522,2024-04-08,2024-04-10,Customer_192,South,Laptops,Ultrabook,Ultrabook 6,87495.22,3,0.1,5622.53
+ORD0523,2024-01-12,2024-01-15,Customer_114,West,Phones,Feature Phone,Feature Phone 1,80827.37,1,0.01,11931.46
+ORD0524,2023-11-26,2023-11-28,Customer_36,South,Phones,iPhone,iPhone 4,79238.54,6,0.1,-1751.48
+ORD0525,2024-05-11,2024-05-13,Customer_140,North,Phones,Android,Android 28,5638.17,2,0.16,-370.8
+ORD0526,2023-11-20,2023-11-23,Customer_18,North,Tablets,iPad,iPad 22,96779.49,9,0.29,-12271.61
+ORD0527,2024-04-15,2024-04-19,Customer_186,North,Tablets,iPad,iPad 29,56011.9,5,0.24,-3939.68
+ORD0528,2023-02-02,2023-02-04,Customer_135,East,Tablets,Windows Tablet,Windows Tablet 2,49028.22,2,0.01,7026.69
+ORD0529,2023-01-12,2023-01-17,Customer_177,West,Tablets,iPad,iPad 1,48951.96,5,0.0,10999.81
+ORD0530,2024-02-01,2024-02-03,Customer_175,North,Accessories,Chargers,Chargers 23,12616.56,5,0.2,-909.73
+ORD0531,2023-12-28,2024-01-03,Customer_121,North,Tablets,Android Tablet,Android Tablet 35,31652.36,4,0.14,-1994.24
+ORD0532,2024-03-30,2024-04-03,Customer_158,East,Tablets,iPad,iPad 2,98452.03,10,0.1,9922.17
+ORD0533,2024-11-08,2024-11-15,Customer_18,North,Laptops,Ultrabook,Ultrabook 5,24648.67,10,0.09,3366.54
+ORD0534,2023-01-12,2023-01-15,Customer_132,North,Phones,Android,Android 20,94171.24,5,0.02,18064.53
+ORD0535,2023-08-26,2023-09-02,Customer_33,East,Laptops,Business,Business 13,72690.01,1,0.03,3817.22
+ORD0536,2023-02-28,2023-03-04,Customer_116,East,Laptops,Ultrabook,Ultrabook 5,64305.46,3,0.13,5076.77
+ORD0537,2024-07-26,2024-07-29,Customer_125,East,Laptops,Ultrabook,Ultrabook 12,66128.37,8,0.26,-3024.64
+ORD0538,2023-07-28,2023-07-31,Customer_177,East,Accessories,Headphones,Headphones 47,91467.61,10,0.24,-7979.08
+ORD0539,2023-01-22,2023-01-28,Customer_176,West,Tablets,Windows Tablet,Windows Tablet 29,73029.39,10,0.17,358.16
+ORD0540,2024-11-30,2024-12-07,Customer_177,West,Tablets,Android Tablet,Android Tablet 42,35391.4,4,0.04,5091.05
+ORD0541,2023-01-01,2023-01-05,Customer_102,North,Phones,Feature Phone,Feature Phone 37,51416.34,10,0.28,-7844.04
+ORD0542,2023-02-24,2023-03-02,Customer_47,South,Laptops,Business,Business 7,98384.95,2,0.11,-2553.14
+ORD0543,2023-12-09,2023-12-15,Customer_147,West,Tablets,Android Tablet,Android Tablet 13,65128.68,1,0.03,1559.72
+ORD0544,2023-11-15,2023-11-17,Customer_156,South,Laptops,Business,Business 14,47722.49,9,0.29,-9408.96
+ORD0545,2023-06-12,2023-06-15,Customer_33,East,Tablets,Android Tablet,Android Tablet 4,110396.02,6,0.19,-9329.8
+ORD0546,2023-01-27,2023-02-02,Customer_117,East,Laptops,Ultrabook,Ultrabook 24,34023.69,3,0.17,-747.28
+ORD0547,2023-06-24,2023-06-27,Customer_28,West,Tablets,iPad,iPad 30,7138.22,3,0.28,-902.64
+ORD0548,2024-12-12,2024-12-14,Customer_156,West,Laptops,Gaming,Gaming 9,106283.44,8,0.21,-3664.44
+ORD0549,2024-11-15,2024-11-19,Customer_148,North,Tablets,Android Tablet,Android Tablet 8,117917.17,5,0.24,-1562.47
+ORD0550,2023-01-02,2023-01-05,Customer_145,West,Phones,iPhone,iPhone 46,96689.03,4,0.07,11429.36
+ORD0551,2024-05-31,2024-06-04,Customer_50,West,Phones,Feature Phone,Feature Phone 47,36361.26,10,0.04,7533.67
+ORD0552,2023-01-20,2023-01-26,Customer_23,South,Accessories,Chargers,Chargers 15,64436.93,10,0.21,-2545.0
+ORD0553,2024-02-06,2024-02-12,Customer_27,West,Phones,iPhone,iPhone 11,15654.92,8,0.01,3446.09
+ORD0554,2024-07-30,2024-08-03,Customer_196,South,Laptops,Business,Business 7,73549.97,4,0.23,-11126.01
+ORD0555,2024-11-20,2024-11-24,Customer_148,West,Accessories,Chargers,Chargers 46,19668.42,2,0.07,-318.27
+ORD0556,2023-06-28,2023-07-01,Customer_132,East,Laptops,Gaming,Gaming 3,111748.07,5,0.14,-2602.07
+ORD0557,2024-02-16,2024-02-18,Customer_166,East,Phones,Feature Phone,Feature Phone 4,97834.94,9,0.16,-374.17
+ORD0558,2024-11-24,2024-11-25,Customer_176,South,Accessories,Chargers,Chargers 4,76489.22,2,0.04,11215.04
+ORD0559,2024-06-23,2024-06-26,Customer_62,West,Phones,Feature Phone,Feature Phone 27,32712.45,1,0.16,313.41
+ORD0560,2024-10-19,2024-10-25,Customer_31,South,Tablets,Android Tablet,Android Tablet 36,60716.78,4,0.27,-10205.71
+ORD0561,2024-06-28,2024-06-29,Customer_68,East,Phones,Feature Phone,Feature Phone 31,97986.65,1,0.17,-1366.65
+ORD0562,2024-02-18,2024-02-22,Customer_6,East,Phones,iPhone,iPhone 5,98282.99,4,0.05,14703.81
+ORD0563,2024-09-18,2024-09-20,Customer_70,North,Accessories,Chargers,Chargers 41,67450.07,8,0.2,-2087.42
+ORD0564,2023-12-26,2023-12-28,Customer_49,West,Phones,Android,Android 10,83209.74,3,0.22,269.31
+ORD0565,2023-12-28,2023-12-31,Customer_140,North,Accessories,Chargers,Chargers 3,40817.68,2,0.0,7964.51
+ORD0566,2023-03-08,2023-03-14,Customer_47,North,Phones,Android,Android 15,105863.5,8,0.28,-21554.61
+ORD0567,2024-10-10,2024-10-11,Customer_182,East,Accessories,Headphones,Headphones 11,10800.63,9,0.03,1656.52
+ORD0568,2024-08-01,2024-08-04,Customer_89,West,Laptops,Ultrabook,Ultrabook 2,110390.74,5,0.29,-18822.2
+ORD0569,2023-05-16,2023-05-19,Customer_92,West,Laptops,Business,Business 34,32528.08,2,0.19,-1397.54
+ORD0570,2023-07-04,2023-07-11,Customer_16,East,Tablets,iPad,iPad 14,17024.72,3,0.16,890.23
+ORD0571,2023-01-01,2023-01-02,Customer_133,West,Laptops,Ultrabook,Ultrabook 33,118168.47,8,0.1,-3404.66
+ORD0572,2023-03-14,2023-03-20,Customer_128,North,Laptops,Ultrabook,Ultrabook 47,111852.69,5,0.2,-6139.04
+ORD0573,2024-07-12,2024-07-15,Customer_8,East,Laptops,Gaming,Gaming 21,92110.02,4,0.21,-12120.94
+ORD0574,2023-02-04,2023-02-08,Customer_63,East,Laptops,Ultrabook,Ultrabook 13,72435.3,7,0.03,10019.57
+ORD0575,2023-06-10,2023-06-11,Customer_150,South,Phones,iPhone,iPhone 16,98033.65,9,0.13,-2122.79
+ORD0576,2024-04-19,2024-04-21,Customer_139,East,Phones,Android,Android 31,52791.64,1,0.3,-12469.78
+ORD0577,2023-11-05,2023-11-09,Customer_147,North,Tablets,iPad,iPad 32,34430.18,7,0.21,-4723.84
+ORD0578,2024-07-25,2024-07-31,Customer_161,East,Phones,iPhone,iPhone 24,97683.7,9,0.17,-9496.05
+ORD0579,2023-02-23,2023-02-28,Customer_19,North,Accessories,Covers,Covers 15,101069.47,9,0.26,-21088.42
+ORD0580,2023-04-14,2023-04-17,Customer_161,West,Accessories,Covers,Covers 40,103507.08,10,0.1,-594.35
+ORD0581,2024-02-13,2024-02-19,Customer_175,North,Laptops,Ultrabook,Ultrabook 46,118717.62,1,0.26,-18218.81
+ORD0582,2023-08-27,2023-08-28,Customer_79,South,Laptops,Gaming,Gaming 47,82729.88,8,0.17,-8047.83
+ORD0583,2024-06-16,2024-06-22,Customer_83,West,Accessories,Covers,Covers 31,81052.04,1,0.04,6611.77
+ORD0584,2024-11-13,2024-11-15,Customer_76,South,Accessories,Covers,Covers 12,7578.84,10,0.17,-339.49
+ORD0585,2024-12-08,2024-12-11,Customer_27,North,Phones,Feature Phone,Feature Phone 37,79489.19,6,0.19,-7064.6
+ORD0586,2023-07-06,2023-07-08,Customer_136,West,Laptops,Business,Business 5,7243.45,6,0.15,548.25
+ORD0587,2024-10-23,2024-10-25,Customer_32,South,Accessories,Headphones,Headphones 49,45979.86,6,0.02,3191.15
+ORD0588,2023-08-15,2023-08-19,Customer_105,South,Laptops,Gaming,Gaming 39,56311.72,1,0.06,8261.96
+ORD0589,2023-03-07,2023-03-08,Customer_94,North,Tablets,Windows Tablet,Windows Tablet 45,19724.99,2,0.07,546.01
+ORD0590,2023-08-19,2023-08-22,Customer_148,West,Accessories,Headphones,Headphones 44,60907.5,9,0.04,1399.29
+ORD0591,2023-02-10,2023-02-13,Customer_142,South,Tablets,iPad,iPad 10,97521.52,3,0.03,15766.57
+ORD0592,2023-01-31,2023-02-04,Customer_113,North,Tablets,Windows Tablet,Windows Tablet 13,17466.57,9,0.02,2855.74
+ORD0593,2023-10-20,2023-10-26,Customer_75,South,Laptops,Gaming,Gaming 31,54244.46,9,0.11,3.84
+ORD0594,2023-05-12,2023-05-14,Customer_141,North,Tablets,iPad,iPad 3,61066.67,4,0.27,-5044.84
+ORD0595,2023-08-09,2023-08-10,Customer_67,North,Tablets,iPad,iPad 3,60849.26,5,0.12,7279.01
+ORD0596,2023-12-27,2023-12-29,Customer_127,East,Tablets,Windows Tablet,Windows Tablet 50,86796.6,10,0.15,-8486.62
+ORD0597,2023-04-19,2023-04-26,Customer_126,North,Tablets,Windows Tablet,Windows Tablet 5,29859.67,1,0.28,-6726.87
+ORD0598,2023-12-20,2023-12-23,Customer_12,East,Tablets,Windows Tablet,Windows Tablet 35,56866.12,7,0.04,8540.34
+ORD0599,2023-10-31,2023-11-03,Customer_136,North,Laptops,Business,Business 22,4377.06,7,0.1,602.59
+ORD0600,2023-12-14,2023-12-21,Customer_97,North,Accessories,Chargers,Chargers 6,28107.4,9,0.15,2807.75
+ORD0601,2024-04-03,2024-04-06,Customer_9,South,Phones,Feature Phone,Feature Phone 40,114418.28,3,0.09,199.25
+ORD0602,2023-10-13,2023-10-18,Customer_141,East,Tablets,Windows Tablet,Windows Tablet 44,22746.85,4,0.02,4459.85
+ORD0603,2024-12-31,2025-01-07,Customer_124,South,Phones,Android,Android 43,46687.02,10,0.1,2174.31
+ORD0604,2023-05-16,2023-05-21,Customer_88,East,Laptops,Gaming,Gaming 11,60231.86,8,0.29,-8061.54
+ORD0605,2023-02-18,2023-02-21,Customer_55,East,Laptops,Gaming,Gaming 11,110926.26,6,0.15,-2739.34
+ORD0606,2024-07-03,2024-07-05,Customer_31,South,Laptops,Gaming,Gaming 41,110670.56,1,0.21,-10526.48
+ORD0607,2024-02-05,2024-02-09,Customer_99,North,Laptops,Business,Business 6,53766.16,2,0.07,9407.94
+ORD0608,2023-07-13,2023-07-18,Customer_74,East,Phones,Feature Phone,Feature Phone 36,10292.34,6,0.22,-1457.69
+ORD0609,2024-12-13,2024-12-16,Customer_198,North,Accessories,Chargers,Chargers 47,76035.65,5,0.23,-8762.12
+ORD0610,2024-07-02,2024-07-08,Customer_32,East,Tablets,Windows Tablet,Windows Tablet 43,83990.13,5,0.04,9412.1
+ORD0611,2024-12-12,2024-12-16,Customer_130,West,Accessories,Chargers,Chargers 32,114738.31,2,0.18,2101.59
+ORD0612,2024-07-19,2024-07-22,Customer_64,North,Phones,Feature Phone,Feature Phone 7,98808.57,10,0.21,-2823.0
+ORD0613,2024-05-06,2024-05-11,Customer_178,North,Tablets,Windows Tablet,Windows Tablet 2,4035.15,7,0.24,-8.38
+ORD0614,2023-12-15,2023-12-19,Customer_157,South,Phones,Feature Phone,Feature Phone 15,20186.76,2,0.29,-1001.95
+ORD0615,2023-07-24,2023-07-27,Customer_57,North,Tablets,iPad,iPad 24,13588.46,1,0.15,431.68
+ORD0616,2024-10-07,2024-10-09,Customer_185,East,Phones,Feature Phone,Feature Phone 39,79411.35,3,0.29,-3609.22
+ORD0617,2024-11-23,2024-11-25,Customer_137,East,Phones,iPhone,iPhone 6,78240.65,2,0.08,-1306.42
+ORD0618,2023-12-02,2023-12-09,Customer_101,North,Tablets,Windows Tablet,Windows Tablet 12,89969.88,8,0.04,17913.11
+ORD0619,2023-10-05,2023-10-11,Customer_21,West,Laptops,Gaming,Gaming 28,14992.06,10,0.21,-2245.58
+ORD0620,2023-10-09,2023-10-11,Customer_140,East,Phones,iPhone,iPhone 2,30671.86,3,0.26,-3943.28
+ORD0621,2023-11-25,2023-12-02,Customer_78,East,Tablets,iPad,iPad 20,63900.76,7,0.02,11845.16
+ORD0622,2023-07-03,2023-07-07,Customer_80,East,Accessories,Covers,Covers 7,16399.51,9,0.09,1566.88
+ORD0623,2023-11-05,2023-11-08,Customer_27,East,Laptops,Gaming,Gaming 40,3844.64,10,0.07,575.17
+ORD0624,2024-02-10,2024-02-12,Customer_193,South,Laptops,Business,Business 28,6658.2,7,0.11,537.41
+ORD0625,2023-11-17,2023-11-23,Customer_187,South,Phones,Android,Android 40,117538.35,8,0.16,8269.81
+ORD0626,2024-12-05,2024-12-07,Customer_85,North,Accessories,Headphones,Headphones 33,14930.95,3,0.19,-487.7
+ORD0627,2023-09-07,2023-09-14,Customer_155,North,Phones,Feature Phone,Feature Phone 46,110901.31,8,0.18,-9346.11
+ORD0628,2024-03-06,2024-03-07,Customer_145,South,Accessories,Chargers,Chargers 39,102987.49,5,0.23,-154.05
+ORD0629,2024-10-05,2024-10-08,Customer_33,East,Phones,Android,Android 31,19024.96,2,0.15,-1198.62
+ORD0630,2024-04-01,2024-04-07,Customer_65,North,Phones,Feature Phone,Feature Phone 49,58935.46,7,0.09,3292.33
+ORD0631,2024-04-01,2024-04-04,Customer_127,East,Tablets,iPad,iPad 26,115019.95,5,0.2,-13715.84
+ORD0632,2024-07-19,2024-07-24,Customer_50,West,Laptops,Business,Business 21,108131.45,3,0.28,-22362.6
+ORD0633,2023-07-15,2023-07-19,Customer_170,South,Accessories,Headphones,Headphones 10,49523.42,9,0.03,2372.47
+ORD0634,2023-06-04,2023-06-10,Customer_53,West,Tablets,iPad,iPad 16,109257.53,3,0.06,6792.41
+ORD0635,2024-03-30,2024-04-03,Customer_146,North,Phones,iPhone,iPhone 50,3384.29,5,0.25,-459.93
+ORD0636,2024-07-23,2024-07-29,Customer_33,East,Accessories,Chargers,Chargers 4,77810.14,9,0.29,-10854.37
+ORD0637,2023-02-25,2023-03-02,Customer_56,North,Laptops,Business,Business 41,82580.62,2,0.17,-6088.85
+ORD0638,2024-07-24,2024-07-30,Customer_96,West,Phones,iPhone,iPhone 16,118404.82,6,0.18,-13773.14
+ORD0639,2024-08-29,2024-09-01,Customer_15,North,Phones,iPhone,iPhone 7,75187.15,8,0.24,-6725.67
+ORD0640,2023-08-05,2023-08-11,Customer_40,West,Tablets,iPad,iPad 38,69028.41,9,0.26,-3514.96
+ORD0641,2023-04-07,2023-04-14,Customer_92,South,Laptops,Business,Business 46,102696.59,9,0.04,18862.02
+ORD0642,2023-06-23,2023-06-26,Customer_126,South,Accessories,Covers,Covers 17,63841.18,6,0.05,5312.95
+ORD0643,2023-11-28,2023-12-01,Customer_172,East,Laptops,Ultrabook,Ultrabook 43,20989.91,1,0.02,2536.3
+ORD0644,2023-06-15,2023-06-22,Customer_184,North,Accessories,Covers,Covers 43,112405.47,5,0.24,-1123.5
+ORD0645,2023-10-21,2023-10-22,Customer_89,South,Laptops,Ultrabook,Ultrabook 21,44787.09,10,0.27,-7566.62
+ORD0646,2023-11-16,2023-11-22,Customer_113,North,Accessories,Headphones,Headphones 21,71313.86,10,0.3,-13160.65
+ORD0647,2023-07-20,2023-07-27,Customer_194,West,Phones,iPhone,iPhone 40,40345.93,8,0.23,-392.82
+ORD0648,2023-11-01,2023-11-02,Customer_53,West,Phones,Feature Phone,Feature Phone 34,103956.79,8,0.29,-21137.46
+ORD0649,2024-01-22,2024-01-28,Customer_62,East,Tablets,Windows Tablet,Windows Tablet 42,114099.37,7,0.1,9293.73
+ORD0650,2023-03-09,2023-03-13,Customer_161,South,Accessories,Chargers,Chargers 6,108609.05,7,0.08,3506.14
+ORD0651,2023-05-01,2023-05-06,Customer_191,South,Laptops,Ultrabook,Ultrabook 37,43420.01,1,0.19,1318.81
+ORD0652,2024-05-14,2024-05-18,Customer_120,West,Accessories,Chargers,Chargers 40,63146.77,2,0.14,5163.45
+ORD0653,2024-12-11,2024-12-12,Customer_83,South,Accessories,Covers,Covers 4,98962.48,1,0.1,5797.73
+ORD0654,2024-07-28,2024-08-02,Customer_55,South,Accessories,Covers,Covers 9,45542.34,1,0.17,-4364.32
+ORD0655,2024-09-14,2024-09-17,Customer_72,West,Phones,Feature Phone,Feature Phone 31,94978.01,3,0.02,15013.23
+ORD0656,2023-11-18,2023-11-20,Customer_131,East,Accessories,Chargers,Chargers 18,42926.38,5,0.0,2174.35
+ORD0657,2024-12-29,2025-01-04,Customer_101,North,Accessories,Headphones,Headphones 16,108867.67,3,0.17,5333.07
+ORD0658,2024-12-12,2024-12-16,Customer_125,South,Accessories,Covers,Covers 26,112476.6,9,0.11,-788.3
+ORD0659,2023-08-05,2023-08-10,Customer_47,West,Laptops,Ultrabook,Ultrabook 24,37381.19,10,0.06,6350.02
+ORD0660,2023-11-21,2023-11-26,Customer_157,South,Phones,Feature Phone,Feature Phone 7,87045.62,9,0.17,-775.28
+ORD0661,2024-01-14,2024-01-20,Customer_145,South,Laptops,Gaming,Gaming 49,66503.51,10,0.22,697.16
+ORD0662,2024-08-19,2024-08-22,Customer_127,South,Accessories,Headphones,Headphones 5,32623.28,5,0.07,4645.7
+ORD0663,2023-05-16,2023-05-21,Customer_53,East,Accessories,Headphones,Headphones 46,29102.42,9,0.17,1265.27
+ORD0664,2023-12-01,2023-12-06,Customer_22,West,Accessories,Covers,Covers 29,75394.97,9,0.08,10989.17
+ORD0665,2023-08-14,2023-08-16,Customer_20,East,Tablets,Android Tablet,Android Tablet 30,52685.13,4,0.16,-4862.34
+ORD0666,2024-06-10,2024-06-16,Customer_89,West,Laptops,Ultrabook,Ultrabook 7,106211.49,10,0.14,728.92
+ORD0667,2024-11-10,2024-11-15,Customer_49,West,Tablets,Windows Tablet,Windows Tablet 19,74744.99,8,0.14,4206.95
+ORD0668,2024-09-17,2024-09-19,Customer_160,East,Tablets,Windows Tablet,Windows Tablet 21,41680.1,1,0.09,-106.22
+ORD0669,2024-08-18,2024-08-21,Customer_31,North,Laptops,Ultrabook,Ultrabook 4,12153.09,9,0.17,-1197.14
+ORD0670,2023-10-18,2023-10-21,Customer_138,West,Laptops,Business,Business 25,117620.47,6,0.1,10041.7
+ORD0671,2023-04-21,2023-04-22,Customer_194,South,Tablets,Android Tablet,Android Tablet 19,34248.91,3,0.12,-2397.13
+ORD0672,2023-02-08,2023-02-10,Customer_12,East,Phones,Android,Android 15,66598.61,9,0.11,-840.46
+ORD0673,2024-11-28,2024-11-29,Customer_124,North,Phones,Android,Android 38,36638.66,2,0.26,-2922.79
+ORD0674,2023-06-04,2023-06-07,Customer_135,West,Laptops,Ultrabook,Ultrabook 40,113099.94,5,0.02,19905.3
+ORD0675,2024-09-14,2024-09-21,Customer_23,East,Tablets,Android Tablet,Android Tablet 17,78625.49,9,0.02,11610.33
+ORD0676,2023-03-11,2023-03-17,Customer_148,East,Accessories,Covers,Covers 17,115794.22,5,0.07,-1340.1
+ORD0677,2024-04-17,2024-04-18,Customer_91,South,Laptops,Gaming,Gaming 15,48569.07,9,0.01,6724.83
+ORD0678,2024-10-01,2024-10-07,Customer_84,East,Tablets,iPad,iPad 3,4670.28,2,0.06,832.6
+ORD0679,2023-07-15,2023-07-19,Customer_45,West,Phones,iPhone,iPhone 31,70334.28,9,0.05,5742.55
+ORD0680,2024-11-10,2024-11-16,Customer_137,South,Phones,Android,Android 25,49129.85,1,0.26,-4127.43
+ORD0681,2023-08-30,2023-09-02,Customer_171,North,Tablets,Windows Tablet,Windows Tablet 50,52471.44,1,0.26,-692.1
+ORD0682,2023-08-06,2023-08-10,Customer_51,West,Accessories,Chargers,Chargers 47,13363.26,10,0.2,330.93
+ORD0683,2023-12-03,2023-12-09,Customer_80,East,Tablets,iPad,iPad 37,91443.4,2,0.04,6689.65
+ORD0684,2023-03-23,2023-03-24,Customer_92,North,Laptops,Business,Business 46,113270.9,2,0.28,-5203.22
+ORD0685,2023-06-28,2023-07-03,Customer_34,East,Accessories,Covers,Covers 14,111391.29,8,0.19,-7011.5
+ORD0686,2023-02-13,2023-02-18,Customer_53,North,Phones,Feature Phone,Feature Phone 5,33287.02,2,0.03,1872.72
+ORD0687,2024-12-11,2024-12-14,Customer_49,East,Phones,iPhone,iPhone 32,105050.28,4,0.28,-12517.51
+ORD0688,2023-07-27,2023-08-03,Customer_4,East,Laptops,Business,Business 9,82126.99,2,0.25,-5750.09
+ORD0689,2024-10-01,2024-10-07,Customer_145,South,Accessories,Chargers,Chargers 24,115841.29,1,0.08,15285.68
+ORD0690,2023-11-27,2023-11-28,Customer_180,East,Tablets,Windows Tablet,Windows Tablet 30,100167.43,3,0.02,11895.01
+ORD0691,2023-04-10,2023-04-13,Customer_137,South,Accessories,Covers,Covers 47,44562.59,1,0.01,1783.08
+ORD0692,2023-07-06,2023-07-13,Customer_157,East,Laptops,Gaming,Gaming 32,70066.8,4,0.05,9831.2
+ORD0693,2023-11-26,2023-12-01,Customer_86,South,Phones,Feature Phone,Feature Phone 39,80370.61,7,0.28,-7120.8
+ORD0694,2023-08-05,2023-08-09,Customer_28,West,Tablets,Windows Tablet,Windows Tablet 32,63030.08,9,0.22,-7359.23
+ORD0695,2023-03-27,2023-03-30,Customer_54,South,Tablets,iPad,iPad 41,110250.96,5,0.05,8867.92
+ORD0696,2023-11-18,2023-11-23,Customer_181,North,Tablets,Android Tablet,Android Tablet 4,48482.51,6,0.26,-2749.71
+ORD0697,2023-08-17,2023-08-24,Customer_23,East,Accessories,Headphones,Headphones 16,79478.05,1,0.01,10067.76
+ORD0698,2023-04-28,2023-05-05,Customer_177,South,Tablets,iPad,iPad 10,92465.93,2,0.26,-6371.62
+ORD0699,2024-11-12,2024-11-17,Customer_41,North,Tablets,Windows Tablet,Windows Tablet 11,13191.66,10,0.08,302.76
+ORD0700,2023-12-17,2023-12-20,Customer_115,East,Tablets,Windows Tablet,Windows Tablet 31,23672.74,9,0.08,689.15
+ORD0701,2024-08-27,2024-09-01,Customer_15,East,Accessories,Chargers,Chargers 46,113672.88,9,0.1,13384.89
+ORD0702,2024-04-07,2024-04-09,Customer_161,South,Accessories,Headphones,Headphones 34,32225.29,3,0.1,2635.44
+ORD0703,2023-09-29,2023-10-05,Customer_65,South,Laptops,Ultrabook,Ultrabook 42,117402.74,8,0.09,-894.76
+ORD0704,2024-05-29,2024-05-30,Customer_51,South,Phones,iPhone,iPhone 29,65912.17,7,0.14,5054.63
+ORD0705,2024-11-18,2024-11-24,Customer_54,East,Tablets,Windows Tablet,Windows Tablet 28,85726.49,9,0.28,-17139.73
+ORD0706,2024-07-31,2024-08-05,Customer_162,North,Tablets,iPad,iPad 39,27697.04,9,0.07,-41.55
+ORD0707,2023-12-29,2024-01-02,Customer_173,West,Laptops,Ultrabook,Ultrabook 39,89100.07,2,0.12,5559.26
+ORD0708,2024-06-19,2024-06-26,Customer_152,West,Phones,iPhone,iPhone 12,108613.77,4,0.22,-9280.3
+ORD0709,2023-04-24,2023-04-27,Customer_70,East,Laptops,Ultrabook,Ultrabook 15,99611.74,7,0.27,-17944.25
+ORD0710,2024-07-18,2024-07-25,Customer_88,East,Tablets,Android Tablet,Android Tablet 10,56328.55,8,0.09,2820.09
+ORD0711,2023-02-11,2023-02-18,Customer_110,North,Accessories,Covers,Covers 49,19718.04,5,0.18,709.43
+ORD0712,2024-06-01,2024-06-04,Customer_85,North,Phones,Feature Phone,Feature Phone 2,115459.56,1,0.13,-7765.31
+ORD0713,2024-03-06,2024-03-07,Customer_69,West,Accessories,Covers,Covers 47,60479.99,3,0.01,11980.4
+ORD0714,2024-03-15,2024-03-17,Customer_70,South,Accessories,Covers,Covers 23,20783.5,3,0.12,314.74
+ORD0715,2024-05-02,2024-05-08,Customer_179,West,Laptops,Ultrabook,Ultrabook 4,84486.97,4,0.22,-4634.57
+ORD0716,2024-05-04,2024-05-07,Customer_185,North,Accessories,Covers,Covers 1,102768.12,3,0.12,2945.99
+ORD0717,2024-12-19,2024-12-20,Customer_176,North,Accessories,Headphones,Headphones 21,11110.73,1,0.04,754.56
+ORD0718,2023-09-21,2023-09-28,Customer_26,South,Accessories,Covers,Covers 27,21381.24,3,0.1,-448.66
+ORD0719,2024-12-16,2024-12-21,Customer_18,West,Phones,Feature Phone,Feature Phone 23,39240.15,5,0.03,3287.04
+ORD0720,2024-04-08,2024-04-14,Customer_188,East,Tablets,iPad,iPad 35,113827.97,3,0.15,1321.15
+ORD0721,2024-10-31,2024-11-06,Customer_181,South,Accessories,Covers,Covers 36,3988.37,2,0.16,173.69
+ORD0722,2024-08-27,2024-08-30,Customer_35,West,Laptops,Business,Business 33,30973.54,9,0.16,-1433.81
+ORD0723,2023-01-05,2023-01-07,Customer_156,East,Tablets,Android Tablet,Android Tablet 27,88915.47,5,0.07,1446.16
+ORD0724,2024-12-31,2025-01-03,Customer_52,West,Tablets,Android Tablet,Android Tablet 4,94269.21,1,0.13,-5354.04
+ORD0725,2023-05-26,2023-05-29,Customer_165,South,Phones,Android,Android 2,52039.89,9,0.26,-6847.67
+ORD0726,2024-03-28,2024-04-01,Customer_151,West,Accessories,Covers,Covers 42,30718.75,5,0.03,1391.78
+ORD0727,2024-02-09,2024-02-13,Customer_86,North,Phones,Android,Android 4,79727.37,4,0.2,1075.31
+ORD0728,2024-11-28,2024-12-03,Customer_7,East,Tablets,Android Tablet,Android Tablet 2,3462.87,10,0.21,31.58
+ORD0729,2024-01-05,2024-01-10,Customer_96,West,Accessories,Chargers,Chargers 20,36206.02,1,0.27,-1976.56
+ORD0730,2023-12-02,2023-12-06,Customer_141,West,Accessories,Headphones,Headphones 27,76446.99,1,0.02,8596.94
+ORD0731,2023-04-24,2023-04-29,Customer_107,South,Laptops,Gaming,Gaming 50,62240.23,2,0.01,7604.13
+ORD0732,2024-03-01,2024-03-08,Customer_186,North,Phones,iPhone,iPhone 22,33088.86,2,0.24,-4571.24
+ORD0733,2024-07-02,2024-07-03,Customer_38,North,Laptops,Business,Business 9,87501.29,10,0.22,-14807.32
+ORD0734,2023-02-04,2023-02-10,Customer_198,North,Laptops,Gaming,Gaming 10,77231.93,5,0.06,11347.22
+ORD0735,2024-10-10,2024-10-15,Customer_27,South,Phones,Android,Android 50,72645.51,9,0.05,761.83
+ORD0736,2024-09-16,2024-09-18,Customer_190,East,Accessories,Covers,Covers 1,75469.01,1,0.23,-7323.58
+ORD0737,2024-04-22,2024-04-26,Customer_17,West,Accessories,Headphones,Headphones 8,105687.18,5,0.09,10220.45
+ORD0738,2023-12-24,2023-12-25,Customer_39,West,Laptops,Business,Business 33,93185.75,2,0.23,-5461.73
+ORD0739,2024-08-14,2024-08-16,Customer_124,East,Phones,iPhone,iPhone 41,117624.72,5,0.19,6777.35
+ORD0740,2023-01-11,2023-01-12,Customer_14,North,Phones,Android,Android 2,89122.44,10,0.27,-2778.5
+ORD0741,2023-10-06,2023-10-13,Customer_101,South,Tablets,Windows Tablet,Windows Tablet 46,34952.54,6,0.25,-6135.35
+ORD0742,2024-02-08,2024-02-11,Customer_84,West,Tablets,Windows Tablet,Windows Tablet 39,41664.8,8,0.13,3813.76
+ORD0743,2023-09-27,2023-09-28,Customer_178,North,Accessories,Chargers,Chargers 7,95256.91,2,0.16,-1852.7
+ORD0744,2024-05-08,2024-05-14,Customer_40,East,Tablets,Windows Tablet,Windows Tablet 3,66992.52,1,0.28,-9870.75
+ORD0745,2023-08-12,2023-08-15,Customer_86,West,Phones,iPhone,iPhone 19,10873.37,9,0.24,-1083.53
+ORD0746,2024-10-03,2024-10-10,Customer_22,East,Accessories,Chargers,Chargers 8,15143.87,6,0.05,2638.35
+ORD0747,2024-01-24,2024-01-28,Customer_133,West,Laptops,Gaming,Gaming 37,36510.19,3,0.02,2767.08
+ORD0748,2023-06-05,2023-06-08,Customer_41,West,Laptops,Gaming,Gaming 29,42739.79,9,0.07,3209.11
+ORD0749,2024-03-14,2024-03-15,Customer_176,East,Laptops,Business,Business 7,30661.09,4,0.1,688.45
+ORD0750,2023-12-22,2023-12-23,Customer_172,South,Phones,iPhone,iPhone 28,82012.24,9,0.17,-9236.02
+ORD0751,2024-08-19,2024-08-21,Customer_183,East,Laptops,Ultrabook,Ultrabook 7,66514.66,1,0.26,-2699.98
+ORD0752,2023-05-03,2023-05-06,Customer_146,East,Laptops,Business,Business 19,94124.94,3,0.18,5868.01
+ORD0753,2024-02-12,2024-02-18,Customer_73,North,Phones,Feature Phone,Feature Phone 47,7660.93,7,0.19,-612.75
+ORD0754,2023-03-14,2023-03-15,Customer_112,South,Phones,iPhone,iPhone 14,114804.57,5,0.27,-11263.67
+ORD0755,2023-09-19,2023-09-20,Customer_15,East,Tablets,iPad,iPad 5,6690.36,4,0.04,870.75
+ORD0756,2024-03-24,2024-03-26,Customer_44,South,Accessories,Headphones,Headphones 37,51344.74,2,0.27,-6859.29
+ORD0757,2024-01-03,2024-01-05,Customer_117,South,Laptops,Gaming,Gaming 30,5409.12,9,0.17,99.47
+ORD0758,2024-07-22,2024-07-29,Customer_43,West,Tablets,Windows Tablet,Windows Tablet 32,55605.52,10,0.25,-10527.84
+ORD0759,2023-09-19,2023-09-23,Customer_89,South,Phones,iPhone,iPhone 17,45262.81,1,0.19,-4932.55
+ORD0760,2023-10-27,2023-10-28,Customer_103,West,Laptops,Business,Business 44,25374.11,9,0.13,-974.56
+ORD0761,2023-12-05,2023-12-10,Customer_150,West,Tablets,Android Tablet,Android Tablet 28,22592.63,2,0.11,542.65
+ORD0762,2023-12-12,2023-12-16,Customer_45,West,Phones,Feature Phone,Feature Phone 46,21966.94,6,0.16,-2390.46
+ORD0763,2023-01-25,2023-01-31,Customer_185,South,Phones,Android,Android 25,8457.95,1,0.24,-10.88
+ORD0764,2023-04-20,2023-04-26,Customer_142,North,Accessories,Chargers,Chargers 31,46352.64,4,0.02,8396.65
+ORD0765,2024-08-26,2024-09-02,Customer_81,South,Accessories,Covers,Covers 19,74841.44,4,0.04,9490.02
+ORD0766,2024-08-12,2024-08-17,Customer_128,South,Laptops,Gaming,Gaming 23,74508.04,2,0.1,3286.1
+ORD0767,2024-11-30,2024-12-01,Customer_97,East,Phones,Android,Android 26,115902.18,9,0.09,-1722.46
+ORD0768,2023-08-08,2023-08-12,Customer_172,North,Accessories,Covers,Covers 46,52177.72,1,0.07,3294.37
+ORD0769,2024-08-23,2024-08-30,Customer_188,West,Phones,iPhone,iPhone 19,84870.84,2,0.26,-16603.43
+ORD0770,2023-02-07,2023-02-11,Customer_96,East,Phones,Feature Phone,Feature Phone 42,99103.3,4,0.07,5528.97
+ORD0771,2023-01-01,2023-01-08,Customer_80,West,Phones,Android,Android 36,25223.42,4,0.29,-1931.76
+ORD0772,2023-06-04,2023-06-06,Customer_42,North,Tablets,iPad,iPad 18,47291.73,1,0.03,3513.37
+ORD0773,2024-02-26,2024-03-01,Customer_11,East,Phones,Android,Android 13,3235.2,8,0.24,-584.58
+ORD0774,2024-12-16,2024-12-23,Customer_72,West,Accessories,Chargers,Chargers 9,77579.08,3,0.15,-3067.71
+ORD0775,2024-10-27,2024-10-29,Customer_165,East,Phones,Feature Phone,Feature Phone 37,50337.54,10,0.01,3305.29
+ORD0776,2023-07-03,2023-07-06,Customer_126,South,Laptops,Business,Business 26,78238.97,5,0.22,-2180.32
+ORD0777,2023-12-03,2023-12-04,Customer_136,East,Accessories,Chargers,Chargers 38,33293.99,1,0.17,300.19
+ORD0778,2023-09-27,2023-10-04,Customer_133,West,Phones,Android,Android 4,81345.1,3,0.26,-4982.56
+ORD0779,2023-10-29,2023-11-04,Customer_14,East,Accessories,Chargers,Chargers 41,79270.59,3,0.1,2953.94
+ORD0780,2024-03-16,2024-03-20,Customer_160,West,Phones,Android,Android 29,24237.3,5,0.2,-3028.79
+ORD0781,2024-11-19,2024-11-26,Customer_111,North,Accessories,Covers,Covers 41,2149.71,5,0.06,112.61
+ORD0782,2024-10-16,2024-10-19,Customer_47,South,Laptops,Gaming,Gaming 33,26187.32,10,0.18,-887.66
+ORD0783,2023-06-06,2023-06-09,Customer_173,East,Laptops,Gaming,Gaming 48,64253.35,7,0.2,-8293.63
+ORD0784,2023-02-05,2023-02-12,Customer_35,East,Phones,iPhone,iPhone 38,16418.95,1,0.18,-92.01
+ORD0785,2023-08-28,2023-08-29,Customer_153,South,Tablets,Android Tablet,Android Tablet 50,24673.34,1,0.26,-2750.3
+ORD0786,2024-09-04,2024-09-10,Customer_96,West,Accessories,Covers,Covers 3,45233.73,5,0.15,-2649.66
+ORD0787,2023-08-08,2023-08-09,Customer_106,North,Tablets,Windows Tablet,Windows Tablet 19,97882.94,7,0.26,-17833.46
+ORD0788,2023-11-29,2023-12-04,Customer_51,West,Laptops,Business,Business 28,51647.38,1,0.25,-1644.46
+ORD0789,2023-08-23,2023-08-26,Customer_104,North,Laptops,Gaming,Gaming 1,57479.71,3,0.1,6394.25
+ORD0790,2023-09-17,2023-09-19,Customer_147,East,Laptops,Gaming,Gaming 22,83618.55,5,0.24,-7022.94
+ORD0791,2024-04-17,2024-04-21,Customer_159,North,Phones,Android,Android 6,108270.77,4,0.0,23268.57
+ORD0792,2024-02-22,2024-02-28,Customer_120,South,Accessories,Headphones,Headphones 46,64098.96,6,0.25,-8664.85
+ORD0793,2023-12-14,2023-12-20,Customer_176,North,Phones,Feature Phone,Feature Phone 9,4246.23,2,0.01,960.08
+ORD0794,2024-04-07,2024-04-12,Customer_172,South,Tablets,Windows Tablet,Windows Tablet 4,94039.11,4,0.27,-19222.83
+ORD0795,2023-09-29,2023-10-01,Customer_113,South,Laptops,Gaming,Gaming 47,49005.56,6,0.28,-5774.24
+ORD0796,2024-08-03,2024-08-05,Customer_12,North,Phones,Feature Phone,Feature Phone 39,47129.9,5,0.09,649.22
+ORD0797,2023-03-09,2023-03-16,Customer_133,South,Tablets,Android Tablet,Android Tablet 45,24315.51,10,0.1,798.18
+ORD0798,2023-05-16,2023-05-18,Customer_82,North,Accessories,Headphones,Headphones 44,78820.43,3,0.24,-10745.15
+ORD0799,2024-12-11,2024-12-13,Customer_46,South,Laptops,Ultrabook,Ultrabook 11,6287.76,7,0.17,-546.38
+ORD0800,2023-06-14,2023-06-16,Customer_21,South,Accessories,Headphones,Headphones 49,5874.38,10,0.24,-762.42
+ORD0801,2024-03-16,2024-03-23,Customer_49,West,Laptops,Gaming,Gaming 3,100707.26,7,0.23,-14814.63
+ORD0802,2023-07-16,2023-07-22,Customer_43,West,Laptops,Gaming,Gaming 40,81300.47,10,0.1,186.92
+ORD0803,2024-06-17,2024-06-18,Customer_162,West,Phones,Android,Android 49,10923.92,1,0.03,1626.88
+ORD0804,2024-02-07,2024-02-09,Customer_200,North,Laptops,Ultrabook,Ultrabook 3,112196.77,9,0.1,933.6
+ORD0805,2023-03-08,2023-03-10,Customer_154,North,Phones,Feature Phone,Feature Phone 4,60473.32,6,0.1,4963.87
+ORD0806,2023-10-21,2023-10-26,Customer_97,West,Accessories,Covers,Covers 48,88481.54,6,0.21,-6623.25
+ORD0807,2023-04-21,2023-04-24,Customer_129,West,Phones,Feature Phone,Feature Phone 49,79836.03,8,0.08,2395.89
+ORD0808,2024-02-05,2024-02-07,Customer_192,East,Phones,Android,Android 24,27192.61,1,0.16,579.77
+ORD0809,2024-10-09,2024-10-11,Customer_197,North,Accessories,Headphones,Headphones 44,89177.93,8,0.11,1563.46
+ORD0810,2024-09-17,2024-09-22,Customer_56,South,Laptops,Gaming,Gaming 20,11062.78,1,0.25,-70.16
+ORD0811,2023-01-14,2023-01-21,Customer_13,South,Accessories,Chargers,Chargers 48,46449.25,1,0.26,-2535.39
+ORD0812,2023-01-08,2023-01-15,Customer_75,East,Phones,iPhone,iPhone 30,104732.64,10,0.23,-15846.67
+ORD0813,2024-10-06,2024-10-10,Customer_9,South,Accessories,Covers,Covers 18,23526.78,5,0.24,-3678.33
+ORD0814,2024-09-05,2024-09-06,Customer_24,South,Tablets,iPad,iPad 36,36815.05,2,0.1,-959.18
+ORD0815,2023-09-05,2023-09-08,Customer_82,North,Tablets,Android Tablet,Android Tablet 43,7869.2,2,0.22,-1225.23
+ORD0816,2023-07-28,2023-08-01,Customer_42,South,Tablets,iPad,iPad 25,2404.96,10,0.07,404.28
+ORD0817,2024-11-17,2024-11-23,Customer_73,East,Phones,Feature Phone,Feature Phone 18,98060.1,5,0.01,14763.66
+ORD0818,2023-01-13,2023-01-14,Customer_4,East,Tablets,iPad,iPad 4,96123.5,2,0.08,13858.31
+ORD0819,2023-05-30,2023-05-31,Customer_83,West,Laptops,Gaming,Gaming 9,97987.76,9,0.17,4452.09
+ORD0820,2024-07-03,2024-07-08,Customer_103,East,Accessories,Headphones,Headphones 19,86905.01,7,0.04,17436.51
+ORD0821,2024-01-30,2024-02-02,Customer_62,East,Accessories,Headphones,Headphones 6,39833.37,1,0.29,-8599.8
+ORD0822,2024-03-27,2024-03-30,Customer_182,East,Phones,Android,Android 20,104709.91,4,0.03,9658.19
+ORD0823,2023-01-08,2023-01-10,Customer_13,East,Tablets,iPad,iPad 19,31852.17,1,0.02,3696.01
+ORD0824,2024-10-17,2024-10-20,Customer_130,North,Phones,Android,Android 16,73898.89,1,0.1,-3465.18
+ORD0825,2024-03-12,2024-03-16,Customer_22,South,Accessories,Chargers,Chargers 20,110603.92,10,0.19,-9149.74
+ORD0826,2023-01-13,2023-01-19,Customer_141,East,Phones,Feature Phone,Feature Phone 18,103149.94,6,0.08,2988.44
+ORD0827,2024-07-07,2024-07-12,Customer_195,East,Tablets,Android Tablet,Android Tablet 22,38422.72,10,0.18,-62.31
+ORD0828,2024-01-06,2024-01-11,Customer_175,South,Accessories,Headphones,Headphones 21,3188.04,5,0.09,403.47
+ORD0829,2023-09-01,2023-09-02,Customer_122,South,Laptops,Ultrabook,Ultrabook 49,46995.27,2,0.22,-2490.96
+ORD0830,2023-01-08,2023-01-14,Customer_155,East,Accessories,Headphones,Headphones 44,67119.17,3,0.12,1020.56
+ORD0831,2023-04-17,2023-04-19,Customer_149,North,Laptops,Gaming,Gaming 23,9022.99,9,0.21,-116.45
+ORD0832,2024-12-01,2024-12-03,Customer_170,North,Accessories,Covers,Covers 41,113630.35,10,0.08,9666.3
+ORD0833,2023-04-12,2023-04-18,Customer_180,South,Accessories,Chargers,Chargers 44,104852.64,9,0.18,-11492.21
+ORD0834,2024-08-18,2024-08-22,Customer_180,South,Tablets,iPad,iPad 6,33530.08,6,0.3,-8202.58
+ORD0835,2023-06-21,2023-06-27,Customer_128,North,Tablets,Windows Tablet,Windows Tablet 33,78100.54,5,0.11,8058.26
+ORD0836,2023-10-30,2023-11-03,Customer_135,East,Phones,Feature Phone,Feature Phone 9,98742.1,5,0.02,18938.46
+ORD0837,2023-11-19,2023-11-20,Customer_174,South,Tablets,iPad,iPad 25,74025.02,6,0.09,-82.0
+ORD0838,2023-09-14,2023-09-21,Customer_54,North,Tablets,iPad,iPad 50,12116.57,5,0.25,-234.3
+ORD0839,2024-09-02,2024-09-03,Customer_103,West,Accessories,Covers,Covers 40,70306.15,10,0.09,8139.5
+ORD0840,2023-11-17,2023-11-23,Customer_33,West,Phones,Feature Phone,Feature Phone 43,43713.74,6,0.21,-3178.7
+ORD0841,2023-02-19,2023-02-26,Customer_189,South,Accessories,Covers,Covers 8,73989.22,1,0.02,16515.3
+ORD0842,2023-02-18,2023-02-22,Customer_161,North,Phones,iPhone,iPhone 7,112833.56,7,0.05,9589.43
+ORD0843,2023-04-28,2023-05-03,Customer_127,West,Phones,Feature Phone,Feature Phone 46,64316.43,8,0.08,3854.62
+ORD0844,2023-07-18,2023-07-25,Customer_128,East,Tablets,Android Tablet,Android Tablet 2,64702.37,7,0.22,-8951.61
+ORD0845,2024-08-17,2024-08-21,Customer_30,East,Phones,Feature Phone,Feature Phone 18,2008.91,5,0.03,153.8
+ORD0846,2024-04-05,2024-04-09,Customer_19,South,Phones,iPhone,iPhone 48,57007.89,9,0.08,9331.55
+ORD0847,2024-04-15,2024-04-17,Customer_36,North,Laptops,Ultrabook,Ultrabook 22,47210.71,8,0.23,-7236.53
+ORD0848,2023-05-12,2023-05-16,Customer_111,North,Laptops,Business,Business 16,92933.78,4,0.11,3880.4
+ORD0849,2024-06-09,2024-06-10,Customer_119,East,Tablets,Windows Tablet,Windows Tablet 1,25822.93,10,0.21,-1509.4
+ORD0850,2024-09-15,2024-09-17,Customer_156,North,Phones,Feature Phone,Feature Phone 18,25553.83,9,0.17,-2520.34
+ORD0851,2024-09-20,2024-09-24,Customer_193,East,Tablets,iPad,iPad 50,17934.95,8,0.21,-980.51
+ORD0852,2023-10-08,2023-10-15,Customer_37,East,Laptops,Business,Business 5,49454.61,7,0.08,5622.05
+ORD0853,2023-03-11,2023-03-13,Customer_38,South,Accessories,Covers,Covers 36,117325.55,6,0.26,-11146.08
+ORD0854,2023-09-25,2023-10-01,Customer_53,East,Accessories,Covers,Covers 10,31181.88,4,0.04,522.75
+ORD0855,2023-04-02,2023-04-07,Customer_131,East,Accessories,Covers,Covers 23,107545.13,5,0.01,17290.42
+ORD0856,2023-12-25,2023-12-28,Customer_172,South,Laptops,Gaming,Gaming 44,94005.5,5,0.06,6072.25
+ORD0857,2023-03-17,2023-03-20,Customer_190,West,Phones,Android,Android 23,66420.53,9,0.3,-8245.81
+ORD0858,2024-02-23,2024-02-28,Customer_116,South,Accessories,Headphones,Headphones 2,96970.94,8,0.13,7832.63
+ORD0859,2023-05-05,2023-05-10,Customer_154,South,Accessories,Headphones,Headphones 31,35851.87,3,0.16,-1593.43
+ORD0860,2024-07-24,2024-07-30,Customer_26,North,Laptops,Ultrabook,Ultrabook 43,15071.0,8,0.01,3247.98
+ORD0861,2024-10-23,2024-10-27,Customer_188,South,Tablets,iPad,iPad 26,35023.31,3,0.07,1312.21
+ORD0862,2023-08-24,2023-08-26,Customer_63,South,Accessories,Covers,Covers 44,24406.21,5,0.24,-2268.49
+ORD0863,2023-05-24,2023-05-25,Customer_29,East,Laptops,Gaming,Gaming 44,22905.77,2,0.11,-14.49
+ORD0864,2024-03-16,2024-03-19,Customer_15,North,Accessories,Headphones,Headphones 20,114449.56,10,0.03,7958.95
+ORD0865,2023-02-04,2023-02-07,Customer_122,North,Accessories,Covers,Covers 9,16391.35,7,0.27,-438.7
+ORD0866,2024-03-27,2024-04-02,Customer_12,North,Accessories,Covers,Covers 13,102888.36,2,0.05,18132.5
+ORD0867,2024-01-28,2024-01-30,Customer_13,West,Accessories,Chargers,Chargers 18,13874.25,3,0.01,856.18
+ORD0868,2024-02-23,2024-02-27,Customer_113,West,Phones,Feature Phone,Feature Phone 14,45436.55,10,0.21,1168.0
+ORD0869,2024-08-01,2024-08-08,Customer_56,East,Tablets,Android Tablet,Android Tablet 20,115158.19,1,0.18,810.71
+ORD0870,2023-09-25,2023-09-27,Customer_34,West,Phones,iPhone,iPhone 23,104449.33,7,0.27,-8326.12
+ORD0871,2023-01-22,2023-01-24,Customer_44,East,Laptops,Gaming,Gaming 45,72389.53,2,0.19,-6857.4
+ORD0872,2023-12-09,2023-12-16,Customer_185,West,Laptops,Business,Business 12,115681.35,1,0.16,1675.9
+ORD0873,2024-07-24,2024-07-30,Customer_31,West,Tablets,Android Tablet,Android Tablet 35,22297.4,4,0.06,2683.67
+ORD0874,2024-03-12,2024-03-17,Customer_149,West,Phones,Feature Phone,Feature Phone 46,69611.81,8,0.03,13009.44
+ORD0875,2023-03-10,2023-03-16,Customer_22,South,Phones,Feature Phone,Feature Phone 38,26741.78,7,0.16,2153.02
+ORD0876,2024-03-06,2024-03-07,Customer_153,West,Phones,Feature Phone,Feature Phone 22,54491.2,10,0.0,4353.57
+ORD0877,2024-10-08,2024-10-10,Customer_102,South,Tablets,Android Tablet,Android Tablet 10,73286.65,6,0.07,8285.21
+ORD0878,2024-04-19,2024-04-21,Customer_151,West,Phones,iPhone,iPhone 42,114355.25,1,0.2,-9320.26
+ORD0879,2023-11-15,2023-11-22,Customer_175,North,Laptops,Business,Business 30,9896.63,7,0.21,-1210.99
+ORD0880,2024-11-26,2024-11-28,Customer_107,South,Accessories,Chargers,Chargers 45,29401.2,1,0.11,-1429.12
+ORD0881,2024-03-12,2024-03-18,Customer_41,South,Tablets,Windows Tablet,Windows Tablet 38,35737.09,3,0.28,-3088.07
+ORD0882,2023-02-09,2023-02-11,Customer_51,North,Accessories,Covers,Covers 40,119986.44,7,0.3,-27742.66
+ORD0883,2023-09-21,2023-09-28,Customer_97,West,Phones,iPhone,iPhone 35,97900.91,9,0.09,7802.85
+ORD0884,2023-05-24,2023-05-30,Customer_131,East,Laptops,Business,Business 11,45515.87,9,0.07,1957.82
+ORD0885,2023-07-16,2023-07-21,Customer_83,East,Phones,Feature Phone,Feature Phone 21,102621.32,8,0.09,-1742.42
+ORD0886,2023-03-08,2023-03-12,Customer_130,South,Accessories,Covers,Covers 47,100302.7,2,0.03,18999.31
+ORD0887,2024-06-22,2024-06-29,Customer_83,East,Accessories,Covers,Covers 20,56438.84,3,0.27,-4094.44
+ORD0888,2023-01-17,2023-01-21,Customer_72,West,Tablets,Windows Tablet,Windows Tablet 26,6199.45,4,0.22,-608.24
+ORD0889,2023-01-07,2023-01-13,Customer_81,South,Phones,iPhone,iPhone 22,96693.88,7,0.02,14579.0
+ORD0890,2024-12-08,2024-12-11,Customer_177,North,Phones,Android,Android 48,87013.68,3,0.15,2193.34
+ORD0891,2024-05-03,2024-05-10,Customer_187,East,Accessories,Covers,Covers 19,75898.38,2,0.08,471.41
+ORD0892,2024-04-03,2024-04-08,Customer_126,South,Tablets,Android Tablet,Android Tablet 7,7911.54,6,0.23,-1289.12
+ORD0893,2023-01-24,2023-01-27,Customer_174,South,Tablets,Android Tablet,Android Tablet 22,51966.97,3,0.3,-6990.03
+ORD0894,2024-10-06,2024-10-07,Customer_185,North,Phones,Android,Android 48,69233.26,9,0.0,7963.43
+ORD0895,2024-12-31,2025-01-07,Customer_75,North,Accessories,Chargers,Chargers 15,14615.16,7,0.18,917.56
+ORD0896,2023-04-14,2023-04-16,Customer_191,South,Laptops,Ultrabook,Ultrabook 14,35359.22,2,0.17,-376.56
+ORD0897,2023-10-20,2023-10-27,Customer_108,West,Laptops,Ultrabook,Ultrabook 47,87793.58,10,0.19,-9244.76
+ORD0898,2024-02-27,2024-03-02,Customer_27,North,Phones,Android,Android 31,48704.81,1,0.05,7511.03
+ORD0899,2023-10-02,2023-10-08,Customer_55,South,Accessories,Headphones,Headphones 24,12400.68,6,0.1,1161.01
+ORD0900,2023-12-20,2023-12-26,Customer_180,North,Laptops,Business,Business 14,97980.44,6,0.16,-5642.57
+ORD0901,2023-12-30,2024-01-04,Customer_155,East,Phones,Android,Android 3,53417.85,6,0.08,4986.33
+ORD0902,2023-07-08,2023-07-09,Customer_61,South,Accessories,Covers,Covers 24,54091.95,9,0.3,-8952.76
+ORD0903,2024-10-02,2024-10-05,Customer_170,North,Laptops,Ultrabook,Ultrabook 14,117796.98,1,0.15,-2653.98
+ORD0904,2023-07-23,2023-07-25,Customer_42,South,Phones,iPhone,iPhone 9,87168.33,2,0.24,-14577.16
+ORD0905,2023-07-02,2023-07-07,Customer_182,South,Laptops,Business,Business 48,63823.53,1,0.09,2879.16
+ORD0906,2023-08-20,2023-08-21,Customer_46,East,Accessories,Chargers,Chargers 9,51070.01,8,0.1,5931.9
+ORD0907,2024-06-29,2024-07-04,Customer_182,East,Accessories,Chargers,Chargers 43,4676.84,7,0.21,81.65
+ORD0908,2024-09-10,2024-09-17,Customer_30,West,Accessories,Chargers,Chargers 14,94897.99,7,0.07,5064.1
+ORD0909,2024-05-12,2024-05-19,Customer_64,North,Tablets,iPad,iPad 37,16652.87,5,0.06,2394.02
+ORD0910,2024-11-22,2024-11-24,Customer_64,South,Laptops,Gaming,Gaming 44,13642.15,10,0.24,-1083.49
+ORD0911,2023-11-28,2023-12-03,Customer_11,North,Tablets,Android Tablet,Android Tablet 22,90216.34,3,0.06,15913.93
+ORD0912,2023-04-08,2023-04-09,Customer_119,South,Phones,Android,Android 15,64823.41,5,0.21,-7934.26
+ORD0913,2023-02-23,2023-03-02,Customer_188,East,Laptops,Ultrabook,Ultrabook 5,53510.59,2,0.22,-3122.93
+ORD0914,2024-10-30,2024-11-01,Customer_103,East,Phones,iPhone,iPhone 40,83947.8,9,0.27,-11034.14
+ORD0915,2023-05-29,2023-06-03,Customer_186,North,Accessories,Chargers,Chargers 22,19266.61,10,0.28,-3111.31
+ORD0916,2024-09-20,2024-09-22,Customer_118,East,Laptops,Ultrabook,Ultrabook 4,4852.56,3,0.14,340.56
+ORD0917,2024-03-01,2024-03-06,Customer_179,West,Accessories,Chargers,Chargers 49,42238.88,1,0.07,3887.15
+ORD0918,2023-06-22,2023-06-24,Customer_17,East,Phones,Android,Android 10,63926.46,1,0.04,7354.43
+ORD0919,2024-10-12,2024-10-14,Customer_64,East,Phones,Feature Phone,Feature Phone 40,56003.61,6,0.04,7325.62
+ORD0920,2024-02-22,2024-02-23,Customer_192,South,Phones,iPhone,iPhone 13,82199.32,2,0.08,12246.04
+ORD0921,2023-09-15,2023-09-19,Customer_183,South,Laptops,Ultrabook,Ultrabook 11,116366.31,2,0.05,622.9
+ORD0922,2023-08-17,2023-08-22,Customer_157,South,Laptops,Gaming,Gaming 42,78674.85,10,0.07,11896.26
+ORD0923,2023-05-01,2023-05-06,Customer_61,North,Accessories,Chargers,Chargers 26,5102.34,1,0.29,-390.53
+ORD0924,2023-11-25,2023-12-01,Customer_17,West,Tablets,Windows Tablet,Windows Tablet 17,91409.93,8,0.09,6025.53
+ORD0925,2023-10-27,2023-10-31,Customer_104,North,Accessories,Covers,Covers 46,88372.87,8,0.16,5712.09
+ORD0926,2023-06-29,2023-06-30,Customer_11,West,Phones,iPhone,iPhone 3,100034.28,3,0.24,-12745.85
+ORD0927,2023-09-10,2023-09-13,Customer_7,South,Accessories,Chargers,Chargers 30,38587.92,5,0.13,1110.93
+ORD0928,2024-06-26,2024-07-01,Customer_109,West,Phones,Android,Android 24,37741.25,10,0.19,-3063.71
+ORD0929,2024-09-03,2024-09-09,Customer_184,East,Laptops,Ultrabook,Ultrabook 21,73354.38,8,0.18,373.41
+ORD0930,2023-08-03,2023-08-07,Customer_32,East,Phones,Android,Android 45,86891.78,9,0.06,5733.07
+ORD0931,2024-03-01,2024-03-07,Customer_56,North,Tablets,Android Tablet,Android Tablet 19,98718.65,1,0.15,2339.45
+ORD0932,2023-02-06,2023-02-08,Customer_34,North,Tablets,Android Tablet,Android Tablet 21,71199.39,3,0.28,-12014.89
+ORD0933,2024-09-07,2024-09-10,Customer_23,East,Laptops,Gaming,Gaming 11,114279.75,1,0.27,-8152.0
+ORD0934,2023-10-01,2023-10-03,Customer_126,North,Phones,iPhone,iPhone 3,24730.45,6,0.24,-2808.8
+ORD0935,2024-09-04,2024-09-08,Customer_111,North,Accessories,Headphones,Headphones 40,73302.02,2,0.19,-7299.8
+ORD0936,2023-12-05,2023-12-10,Customer_93,East,Phones,Feature Phone,Feature Phone 33,92167.39,6,0.2,1813.39
+ORD0937,2023-02-19,2023-02-26,Customer_87,East,Phones,iPhone,iPhone 30,102755.98,1,0.15,3872.76
+ORD0938,2024-11-06,2024-11-09,Customer_47,South,Accessories,Chargers,Chargers 38,77068.49,2,0.29,-16555.6
+ORD0939,2023-06-16,2023-06-18,Customer_152,West,Laptops,Gaming,Gaming 9,104869.15,10,0.23,-17463.18
+ORD0940,2024-04-02,2024-04-04,Customer_31,East,Tablets,iPad,iPad 20,32629.16,1,0.12,-1547.74
+ORD0941,2023-08-31,2023-09-05,Customer_126,South,Tablets,iPad,iPad 47,46937.43,3,0.08,1314.92
+ORD0942,2023-08-28,2023-08-29,Customer_170,West,Laptops,Gaming,Gaming 37,89092.59,1,0.11,-2579.59
+ORD0943,2024-11-28,2024-11-30,Customer_195,East,Laptops,Ultrabook,Ultrabook 3,113075.77,5,0.01,18635.83
+ORD0944,2024-06-05,2024-06-06,Customer_181,West,Tablets,Windows Tablet,Windows Tablet 13,62586.15,10,0.15,190.8
+ORD0945,2024-10-14,2024-10-17,Customer_53,West,Accessories,Covers,Covers 27,22641.15,10,0.04,2824.52
+ORD0946,2024-05-25,2024-05-30,Customer_6,East,Tablets,iPad,iPad 50,52607.42,2,0.11,-523.94
+ORD0947,2024-06-09,2024-06-11,Customer_124,North,Accessories,Covers,Covers 18,12965.84,6,0.09,1770.52
+ORD0948,2024-01-10,2024-01-14,Customer_184,West,Tablets,iPad,iPad 38,96053.28,5,0.15,-4541.49
+ORD0949,2023-09-21,2023-09-23,Customer_96,East,Phones,iPhone,iPhone 32,83973.62,10,0.05,16090.96
+ORD0950,2023-09-24,2023-09-25,Customer_2,North,Phones,Feature Phone,Feature Phone 48,90452.99,6,0.04,11532.56
+ORD0951,2023-01-05,2023-01-09,Customer_37,North,Tablets,iPad,iPad 36,28237.85,7,0.29,-6762.93
+ORD0952,2024-12-01,2024-12-07,Customer_54,East,Laptops,Business,Business 12,70376.98,1,0.1,4530.92
+ORD0953,2024-07-06,2024-07-07,Customer_55,West,Accessories,Covers,Covers 49,77865.74,10,0.23,-4208.64
+ORD0954,2023-07-11,2023-07-18,Customer_123,North,Phones,Feature Phone,Feature Phone 38,5826.09,4,0.24,-916.45
+ORD0955,2024-08-17,2024-08-19,Customer_171,East,Laptops,Business,Business 1,79659.43,9,0.09,8925.76
+ORD0956,2023-12-11,2023-12-15,Customer_71,East,Accessories,Headphones,Headphones 24,7763.94,9,0.15,-243.74
+ORD0957,2024-02-04,2024-02-06,Customer_48,East,Laptops,Gaming,Gaming 42,42658.32,8,0.09,630.34
+ORD0958,2024-09-21,2024-09-28,Customer_176,East,Accessories,Headphones,Headphones 36,96635.07,4,0.03,3291.86
+ORD0959,2024-06-24,2024-06-26,Customer_71,East,Tablets,Windows Tablet,Windows Tablet 13,40286.87,10,0.17,2226.91
+ORD0960,2024-01-21,2024-01-28,Customer_11,West,Tablets,Windows Tablet,Windows Tablet 19,41482.94,9,0.03,4082.89
+ORD0961,2023-12-14,2023-12-18,Customer_58,West,Tablets,Windows Tablet,Windows Tablet 14,21441.26,10,0.17,1233.59
+ORD0962,2023-01-28,2023-02-01,Customer_157,South,Laptops,Gaming,Gaming 50,73483.32,3,0.09,-2673.03
+ORD0963,2023-06-02,2023-06-06,Customer_81,South,Phones,iPhone,iPhone 41,7084.71,10,0.14,-367.55
+ORD0964,2023-06-24,2023-06-29,Customer_127,North,Laptops,Business,Business 19,77876.18,9,0.24,-2539.99
+ORD0965,2024-01-24,2024-01-28,Customer_152,East,Tablets,Android Tablet,Android Tablet 38,63940.3,3,0.2,-1363.21
+ORD0966,2024-09-05,2024-09-12,Customer_74,North,Accessories,Covers,Covers 40,11887.41,5,0.25,-1274.44
+ORD0967,2023-12-18,2023-12-20,Customer_187,South,Tablets,Android Tablet,Android Tablet 39,21234.07,7,0.29,-2331.5
+ORD0968,2024-06-14,2024-06-21,Customer_39,West,Laptops,Gaming,Gaming 37,108320.01,7,0.12,-5639.01
+ORD0969,2024-09-05,2024-09-07,Customer_101,South,Accessories,Covers,Covers 22,44570.42,6,0.17,-4208.51
+ORD0970,2024-09-29,2024-10-06,Customer_198,East,Tablets,iPad,iPad 16,43516.53,6,0.07,4288.55
+ORD0971,2024-01-20,2024-01-25,Customer_187,South,Tablets,Android Tablet,Android Tablet 30,5747.52,4,0.28,-1024.55
+ORD0972,2024-09-25,2024-09-27,Customer_171,East,Tablets,iPad,iPad 7,45298.57,10,0.26,-2997.45
+ORD0973,2023-04-03,2023-04-08,Customer_11,North,Tablets,Android Tablet,Android Tablet 13,98987.56,3,0.18,3135.02
+ORD0974,2023-04-07,2023-04-13,Customer_71,South,Accessories,Headphones,Headphones 45,44323.18,1,0.22,-4985.78
+ORD0975,2024-11-08,2024-11-13,Customer_89,West,Tablets,iPad,iPad 20,95248.84,7,0.1,-1554.06
+ORD0976,2024-07-11,2024-07-16,Customer_198,North,Laptops,Business,Business 10,44636.29,3,0.15,-3107.31
+ORD0977,2024-05-17,2024-05-21,Customer_20,West,Accessories,Covers,Covers 20,6616.63,9,0.26,-171.85
+ORD0978,2024-11-13,2024-11-18,Customer_13,North,Accessories,Headphones,Headphones 50,3511.15,9,0.21,89.37
+ORD0979,2024-11-28,2024-12-02,Customer_85,West,Laptops,Business,Business 34,23447.0,5,0.02,986.6
+ORD0980,2024-02-27,2024-03-02,Customer_152,South,Accessories,Headphones,Headphones 27,7914.48,5,0.05,206.43
+ORD0981,2024-02-29,2024-03-01,Customer_102,North,Accessories,Covers,Covers 12,84190.27,6,0.12,7973.12
+ORD0982,2024-11-19,2024-11-24,Customer_57,North,Tablets,Android Tablet,Android Tablet 29,46526.14,8,0.06,5817.31
+ORD0983,2024-05-16,2024-05-19,Customer_92,North,Laptops,Ultrabook,Ultrabook 43,55270.22,2,0.06,8857.49
+ORD0984,2024-12-10,2024-12-13,Customer_102,West,Laptops,Ultrabook,Ultrabook 37,23477.87,4,0.13,-1577.68
+ORD0985,2024-07-17,2024-07-20,Customer_71,West,Phones,iPhone,iPhone 16,71168.42,10,0.04,13325.08
+ORD0986,2023-01-27,2023-01-30,Customer_190,North,Phones,Feature Phone,Feature Phone 24,5349.48,4,0.29,-776.97
+ORD0987,2023-07-13,2023-07-14,Customer_165,North,Laptops,Gaming,Gaming 7,79174.61,8,0.12,-2497.11
+ORD0988,2024-01-26,2024-01-27,Customer_38,West,Phones,iPhone,iPhone 45,55550.97,10,0.21,-5972.08
+ORD0989,2023-10-12,2023-10-15,Customer_43,East,Laptops,Ultrabook,Ultrabook 19,89336.15,2,0.08,5564.27
+ORD0990,2023-12-31,2024-01-03,Customer_167,South,Tablets,iPad,iPad 15,92126.08,3,0.04,6897.27
+ORD0991,2024-09-01,2024-09-05,Customer_67,South,Laptops,Gaming,Gaming 20,5080.91,2,0.07,829.69
+ORD0992,2024-09-25,2024-10-02,Customer_109,North,Phones,iPhone,iPhone 10,74552.07,9,0.14,1669.99
+ORD0993,2023-10-04,2023-10-09,Customer_62,East,Laptops,Ultrabook,Ultrabook 47,97232.25,2,0.03,15984.32
+ORD0994,2023-11-28,2023-11-30,Customer_58,South,Tablets,iPad,iPad 50,69398.23,2,0.27,-4690.49
+ORD0995,2023-03-09,2023-03-12,Customer_140,West,Laptops,Ultrabook,Ultrabook 10,61125.81,10,0.21,-3903.67
+ORD0996,2023-05-04,2023-05-05,Customer_136,East,Phones,Android,Android 26,83165.12,5,0.15,-327.78
+ORD0997,2024-11-02,2024-11-04,Customer_158,North,Phones,Feature Phone,Feature Phone 23,26157.96,6,0.19,669.38
+ORD0998,2023-07-17,2023-07-21,Customer_32,East,Phones,Android,Android 19,32190.02,4,0.17,617.3
+ORD0999,2024-01-13,2024-01-14,Customer_115,South,Tablets,Android Tablet,Android Tablet 31,99058.19,4,0.15,-7518.96
+ORD1000,2024-03-09,2024-03-13,Customer_147,West,Accessories,Covers,Covers 28,34527.45,7,0.15,2617.91
